@@ -17,7 +17,7 @@
             <span class="date">Blog since Mar. 2017</span>
           </div>
           <div class="description">
-            <a href="mailto:hain_wang@foxmail.com?Subject=投稿%20Chatbot Master Core" target="_top">和我联系：投稿，咨询，合作。</a>
+            <a href="mailto:hain_wang@foxmail.com?Subject=投稿%20Chatbot Master Core" target="_blank">联系我：投稿，咨询，合作。</a>
           </div>
         </div>
         <div class="extra content">
