@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>52chatbot</title>
+  <subtitle>Noble is not born, but trained.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="https://samurais.github.io"/>
+  <updated>2017-03-01T07:52:20.493Z</updated>
+  <id>https://samurais.github.io</id>
+  <author>
+    <name>Liu Yuyang</name>
+    <email>sa@linuxer.me</email>
+  </author>
+  <generator uri="https://samurais.github.io">blog-next</generator>
+  
+    <entry>
+      <title>The answer to life, the universe and everything</title>
+      <link href="https://samurais.github.io/announcement/2017/03/01/kickoff/"/>
+      <id>https://samurais.github.io/announcement/2017/03/01/kickoff/</id>
+      <published>2017-03-31T16:00:00.000Z</published>
+      <updated>2017-03-31T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          Hello
+        
+      </summary>
+      <category term="announcement" scheme="https://samurais.github.io/categories?category=announcement"/>
+      
+        <category term="thoughts" scheme="https://samurais.github.io/tags?tag=thoughts"/>
+      
+    </entry>
+  
+</feed>

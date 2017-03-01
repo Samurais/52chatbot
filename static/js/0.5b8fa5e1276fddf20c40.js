@@ -1,0 +1,1 @@
+webpackJsonp([0,2],{3:function(e,t){e.exports=[{layout:"post",title:"The answer to life, the universe and everything",excerpt:"Hello",category:"announcement",tags:["thoughts"],disqus:!0,_title:"kickoff",year:"2017",month:"03",day:"01"}]}});
