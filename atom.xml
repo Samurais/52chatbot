@@ -4,13 +4,36 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="https://samurais.github.io"/>
-  <updated>2017-03-01T14:23:23.086Z</updated>
+  <updated>2017-03-01T14:46:51.882Z</updated>
   <id>https://samurais.github.io</id>
   <author>
     <name>Liu Yuyang</name>
     <email>sa@linuxer.me</email>
   </author>
   <generator uri="https://samurais.github.io">blog-next</generator>
+  
+    <entry>
+      <title>Sequence to Sequence Learning with Neural Networks</title>
+      <link href="https://samurais.github.io/implementation/2017/03/01/seq2seq/"/>
+      <id>https://samurais.github.io/implementation/2017/03/01/seq2seq/</id>
+      <published>2017-03-31T16:00:00.000Z</published>
+      <updated>2017-03-31T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          This work tries to reproduce the results of A Neural Conversational Model (aka the Google chatbot). It uses a RNN (seq2seq model) for sentence predictions. It is done using python and TensorFlow.
+        
+      </summary>
+      <category term="implementation" scheme="https://samurais.github.io/categories?category=implementation"/>
+      
+        <category term="seq2seq" scheme="https://samurais.github.io/tags?tag=seq2seq"/>
+      
+        <category term="algorithm" scheme="https://samurais.github.io/tags?tag=algorithm"/>
+      
+        <category term="sourcecode" scheme="https://samurais.github.io/tags?tag=sourcecode"/>
+      
+        <category term="tensorflow" scheme="https://samurais.github.io/tags?tag=tensorflow"/>
+      
+    </entry>
   
     <entry>
       <title>The answer to life, the universe and everything</title>
