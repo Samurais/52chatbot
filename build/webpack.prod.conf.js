@@ -74,8 +74,8 @@ var webpackConfig = merge(baseWebpackConfig, {
       },
     }),
     new HtmlWebpackPlugin({
-      filename: 'googleab9133f89e2f7362.html',
-      template: 'googleab9133f89e2f7362.html',
+      filename: 'google8926d4817f2583c0.html',
+      template: 'google8926d4817f2583c0.html',
       inject: false,
     }),
     new FeedPlugin(),
