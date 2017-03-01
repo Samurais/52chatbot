@@ -13,7 +13,7 @@
     <router-view></router-view>
     <div class="ui center aligned segment">
       <p>
-        copyright＠2017 <a href="https://github.com/Samurais">Samurais</a> All rights reversed.
+        Copyright＠2017 <a href="https://github.com/Samurais">Samurais.</a> All rights reversed.
       </p>
       <p>Built with <a href="https://github.com/reverland/blog-next">blog-next</a>.</p>
     </div>

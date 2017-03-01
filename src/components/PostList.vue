@@ -2,7 +2,7 @@
   <div class="postsList">
     <template v-if="!$loadingRouteData">
     <h1 class="ui teal huge header">Chatbot Master Core</h1>
-    <h2 class="ui grey small header">// console.log(/all gone/)</h2>
+    <h2 class="ui grey small header">bot.reply("Hello World.")</h2>
 
     <div class="ui segment">
     <a class="ui label" v-for="keyvalue of archive" @click="scrollIntoView(keyvalue[0])">{{ keyvalue[0] }} </a>
