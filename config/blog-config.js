@@ -3,5 +3,5 @@ module.exports = {
   host: 'samurais.github.io',
   title: 'Chatbot Master Core',
   subTitle: 'Noble is not born, but trained.',
-  disqus: 'trained'
+  disqus: 'chatbot-master-core'
 }
