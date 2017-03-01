@@ -13,9 +13,9 @@
     <router-view></router-view>
     <div class="ui center aligned segment">
       <p>
-        copyleft＠2011-2016
+        copyright＠2017 <a href="https://github.com/Samurais">Samurais</a> All rights reversed.
       </p>
-      <p>reverland built with <a href="https://vuejs.org">vue</a> and <a href="http://webpack.github.io/">webpack</a></p>
+      <p>Built with <a href="https://github.com/reverland/blog-next">blog-next</a>.</p>
     </div>
   </div>
 </template>
