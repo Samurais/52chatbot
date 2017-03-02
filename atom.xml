@@ -4,11 +4,11 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="https://samurais.github.io"/>
-  <updated>2017-03-02T14:30:44.410Z</updated>
+  <updated>2017-03-02T15:08:12.030Z</updated>
   <id>https://samurais.github.io</id>
   <author>
-    <name>Liu Yuyang</name>
-    <email>sa@linuxer.me</email>
+    <name>hain</name>
+    <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="https://samurais.github.io">blog-next</generator>
   
@@ -37,13 +37,13 @@
   
     <entry>
       <title>The answer to life, the universe and everything</title>
-      <link href="https://samurais.github.io/implementation/2017/03/01/kickoff/"/>
-      <id>https://samurais.github.io/implementation/2017/03/01/kickoff/</id>
+      <link href="https://samurais.github.io/implementation/2017/03/01/chatbot-age-is-coming/"/>
+      <id>https://samurais.github.io/implementation/2017/03/01/chatbot-age-is-coming/</id>
       <published>2017-03-31T16:00:00.000Z</published>
       <updated>2017-03-31T16:00:00.000Z</updated>
       <summary type="html">
         
-          Hello
+          What is the meaning of life? bot: 42.
         
       </summary>
       <category term="implementation" scheme="https://samurais.github.io/categories?category=implementation"/>
