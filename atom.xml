@@ -4,7 +4,7 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="https://samurais.github.io"/>
-  <updated>2017-03-01T14:46:51.882Z</updated>
+  <updated>2017-03-02T14:14:35.032Z</updated>
   <id>https://samurais.github.io</id>
   <author>
     <name>Liu Yuyang</name>
@@ -14,10 +14,10 @@
   
     <entry>
       <title>Sequence to Sequence Learning with Neural Networks</title>
-      <link href="https://samurais.github.io/implementation/2017/03/01/seq2seq/"/>
-      <id>https://samurais.github.io/implementation/2017/03/01/seq2seq/</id>
-      <published>2017-03-31T16:00:00.000Z</published>
-      <updated>2017-03-31T16:00:00.000Z</updated>
+      <link href="https://samurais.github.io/implementation/2017/03/02/1506.05869-A%20Neural%20Conversational%20Model/"/>
+      <id>https://samurais.github.io/implementation/2017/03/02/1506.05869-A%20Neural%20Conversational%20Model/</id>
+      <published>2017-04-01T16:00:00.000Z</published>
+      <updated>2017-04-01T16:00:00.000Z</updated>
       <summary type="html">
         
           This work tries to reproduce the results of A Neural Conversational Model (aka the Google chatbot). It uses a RNN (seq2seq model) for sentence predictions. It is done using python and TensorFlow.
@@ -37,8 +37,8 @@
   
     <entry>
       <title>The answer to life, the universe and everything</title>
-      <link href="https://samurais.github.io/announcement/2017/03/01/kickoff/"/>
-      <id>https://samurais.github.io/announcement/2017/03/01/kickoff/</id>
+      <link href="https://samurais.github.io/implementation/2017/03/01/kickoff/"/>
+      <id>https://samurais.github.io/implementation/2017/03/01/kickoff/</id>
       <published>2017-03-31T16:00:00.000Z</published>
       <updated>2017-03-31T16:00:00.000Z</updated>
       <summary type="html">
@@ -46,7 +46,7 @@
           Hello
         
       </summary>
-      <category term="announcement" scheme="https://samurais.github.io/categories?category=announcement"/>
+      <category term="implementation" scheme="https://samurais.github.io/categories?category=implementation"/>
       
         <category term="thoughts" scheme="https://samurais.github.io/tags?tag=thoughts"/>
       
