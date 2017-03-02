@@ -1,6 +1,0 @@
-{
-    "src":          "/Users/hain/ai/samurais.github.io/",
-    "dest":         "qiniu:access_key=EGhso8jB3FOyZADuMloCG9fNgnu19JKJ2c8C6kJI&secret_key=i9u5osDpBXjbc8UGGY_6BNxv7qpzEeVOZnU4oIHU&bucket=backlog&key_prefix=chatbot-master-core/",
-    "deletable":    0,
-    "debug_level":  0
-}
