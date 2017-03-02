@@ -1,3 +1,25 @@
+<!-- *必填 --> 
+# Paper
+<!-- 论文地址，说明论文要解决的问题 -->
+
+
+
+# Implementation
+<!-- 对应论文的实现：开源码地址，数据等 -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 忽略以下，仅用于生成文章 -->
+
 <!--  
 ---
 layout: post
@@ -14,11 +36,3 @@ disqus: true
 <!-- tags: nlp, tensorflow, algorithm, sourcecode, etc. -->
 
 <!-- Content -->
-
-
-# Paper
-<!-- *必填 论文地址，说明论文要解决的问题 -->
-
-
-# Implementation
-<!-- *必填 对应论文的实现：开源码地址，数据等 -->
