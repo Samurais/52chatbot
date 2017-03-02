@@ -17,7 +17,7 @@
             <span class="date">Blog since Mar. 2017</span>
           </div>
           <div class="description">
-            <a href="mailto:hain_wang@foxmail.com?Subject=投稿%20Chatbot Master Core" target="_blank">联系我：投稿，咨询，合作。</a>
+            <a href="https://samurais.github.io/implementation/2017/03/01/chatbot-age-is-coming/" target="_blank">The answer to life, the universe and everything</a>
           </div>
         </div>
         <div class="extra content">
