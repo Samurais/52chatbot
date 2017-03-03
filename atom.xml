@@ -4,7 +4,7 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="https://samurais.github.io"/>
-  <updated>2017-03-03T05:44:36.769Z</updated>
+  <updated>2017-03-03T05:52:26.452Z</updated>
   <id>https://samurais.github.io</id>
   <author>
     <name>hain</name>
@@ -25,7 +25,7 @@
       </summary>
       <category term="implementation" scheme="https://samurais.github.io/categories?category=implementation"/>
       
-        <category term="torch7" scheme="https://samurais.github.io/tags?tag=torch7"/>
+        <category term="torch" scheme="https://samurais.github.io/tags?tag=torch"/>
       
         <category term="luarocks" scheme="https://samurais.github.io/tags?tag=luarocks"/>
       
@@ -50,8 +50,6 @@
       
         <category term="keras" scheme="https://samurais.github.io/tags?tag=keras"/>
       
-        <category term="algorithm" scheme="https://samurais.github.io/tags?tag=algorithm"/>
-      
         <category term="image" scheme="https://samurais.github.io/tags?tag=image"/>
       
     </entry>
@@ -64,18 +62,18 @@
       <updated>2017-04-01T16:00:00.000Z</updated>
       <summary type="html">
         
-          This work tries to reproduce the results of A Neural Conversational Model (aka the Google chatbot). It uses a RNN (seq2seq model) for sentence predictions. It is done using python and TensorFlow.
+          This work tries to reproduce the results of Google chatbot. It uses a RNN (seq2seq model) for sentence predictions. It is done using python and TensorFlow.
         
       </summary>
       <category term="implementation" scheme="https://samurais.github.io/categories?category=implementation"/>
       
         <category term="seq2seq" scheme="https://samurais.github.io/tags?tag=seq2seq"/>
       
-        <category term="algorithm" scheme="https://samurais.github.io/tags?tag=algorithm"/>
-      
-        <category term="sourcecode" scheme="https://samurais.github.io/tags?tag=sourcecode"/>
+        <category term="dialogue" scheme="https://samurais.github.io/tags?tag=dialogue"/>
       
         <category term="tensorflow" scheme="https://samurais.github.io/tags?tag=tensorflow"/>
+      
+        <category term="dialogue" scheme="https://samurais.github.io/tags?tag=dialogue"/>
       
     </entry>
   
