@@ -4,13 +4,34 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="https://samurais.github.io"/>
-  <updated>2017-03-02T15:23:50.939Z</updated>
+  <updated>2017-03-03T05:31:49.334Z</updated>
   <id>https://samurais.github.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="https://samurais.github.io">blog-next</generator>
+  
+    <entry>
+      <title>Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis</title>
+      <link href="https://samurais.github.io/implementation/2017/03/03/1601.04589-Combining%20Markov%20Random%20Fields%20and%20Convolutional%20Neural%20Networks%20for%20Image%20Synthesis/"/>
+      <id>https://samurais.github.io/implementation/2017/03/03/1601.04589-Combining%20Markov%20Random%20Fields%20and%20Convolutional%20Neural%20Networks%20for%20Image%20Synthesis/</id>
+      <published>2017-04-02T16:00:00.000Z</published>
+      <updated>2017-04-02T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          使用MRF+CNN来做图片风格化
+        
+      </summary>
+      <category term="implementation" scheme="https://samurais.github.io/categories?category=implementation"/>
+      
+        <category term="torch" scheme="https://samurais.github.io/tags?tag=torch"/>
+      
+        <category term="keras" scheme="https://samurais.github.io/tags?tag=keras"/>
+      
+        <category term="algorithm" scheme="https://samurais.github.io/tags?tag=algorithm"/>
+      
+    </entry>
   
     <entry>
       <title>A Neural Conversational Model</title>
