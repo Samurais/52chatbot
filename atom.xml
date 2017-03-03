@@ -4,13 +4,34 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="https://samurais.github.io"/>
-  <updated>2017-03-03T05:31:49.334Z</updated>
+  <updated>2017-03-03T05:44:36.769Z</updated>
   <id>https://samurais.github.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="https://samurais.github.io">blog-next</generator>
+  
+    <entry>
+      <title>Adversarial Learning for Neural Dialogue Generation</title>
+      <link href="https://samurais.github.io/implementation/2017/03/03/1701.06547-Adversarial%20Learning%20for%20Neural%20Dialogue%20Generation/"/>
+      <id>https://samurais.github.io/implementation/2017/03/03/1701.06547-Adversarial%20Learning%20for%20Neural%20Dialogue%20Generation/</id>
+      <published>2017-04-02T16:00:00.000Z</published>
+      <updated>2017-04-02T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          基于GAN和RL的思想来训练对话生成
+        
+      </summary>
+      <category term="implementation" scheme="https://samurais.github.io/categories?category=implementation"/>
+      
+        <category term="torch7" scheme="https://samurais.github.io/tags?tag=torch7"/>
+      
+        <category term="luarocks" scheme="https://samurais.github.io/tags?tag=luarocks"/>
+      
+        <category term="dialogue" scheme="https://samurais.github.io/tags?tag=dialogue"/>
+      
+    </entry>
   
     <entry>
       <title>Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis</title>
@@ -30,6 +51,8 @@
         <category term="keras" scheme="https://samurais.github.io/tags?tag=keras"/>
       
         <category term="algorithm" scheme="https://samurais.github.io/tags?tag=algorithm"/>
+      
+        <category term="image" scheme="https://samurais.github.io/tags?tag=image"/>
       
     </entry>
   
