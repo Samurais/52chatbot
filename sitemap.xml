@@ -14,6 +14,10 @@
   </url>
 
   <url>
+    <loc>http://blog.chatbot.io/development/2016/11/29/how-to-use-tensorboard/</loc>
+  </url>
+
+  <url>
     <loc>http://blog.chatbot.io/research/2016/12/02/quickstart-tf-contrib-learn/</loc>
   </url>
 
