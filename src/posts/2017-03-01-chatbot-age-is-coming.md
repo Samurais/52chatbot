@@ -2,8 +2,8 @@
 layout: post
 title: "The answer to life, the universe and everything"
 excerpt: "What is the meaning of life? bot: 42."
-category: implementation
-tags: [thoughts]
+category: thoughts
+tags: [others]
 disqus: true
 ---
 
