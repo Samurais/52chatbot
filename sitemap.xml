@@ -14,11 +14,23 @@
   </url>
 
   <url>
+    <loc>http://blog.chatbot.io/development/2017/01/01/approaching-a-chatbot-service-part-1/</loc>
+  </url>
+
+  <url>
+    <loc>http://blog.chatbot.io/development/2017/01/02/approaching-a-chatbot-service-part-2-bot-engine/</loc>
+  </url>
+
+  <url>
     <loc>http://blog.chatbot.io/development/2017/01/23/guo-nei-ke-yong-mian-fei-yu-liao-ku/</loc>
   </url>
 
   <url>
     <loc>http://blog.chatbot.io/development/2017/01/29/kedaxunfei-nodejs-sdk/</loc>
+  </url>
+
+  <url>
+    <loc>http://blog.chatbot.io/development/2017/02/07/approaching-a-chatbot-service-part-3-bot-model/</loc>
   </url>
 
   <url>

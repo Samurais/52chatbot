@@ -4,7 +4,7 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-04-08T06:07:54.797Z</updated>
+  <updated>2017-04-08T06:33:27.616Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
@@ -95,23 +95,19 @@
     </entry>
   
     <entry>
-      <title>科大讯飞 Node.js SDK</title>
-      <link href="http://blog.chatbot.io/development/2017/01/29/kedaxunfei-nodejs-sdk/"/>
-      <id>http://blog.chatbot.io/development/2017/01/29/kedaxunfei-nodejs-sdk/</id>
-      <published>2017-02-28T16:00:00.000Z</published>
-      <updated>2017-02-28T16:00:00.000Z</updated>
+      <title>Approaching a Chatbot Service - Part 3: Bot Model</title>
+      <link href="http://blog.chatbot.io/development/2017/02/07/approaching-a-chatbot-service-part-3-bot-model/"/>
+      <id>http://blog.chatbot.io/development/2017/02/07/approaching-a-chatbot-service-part-3-bot-model/</id>
+      <published>2017-03-06T16:00:00.000Z</published>
+      <updated>2017-03-06T16:00:00.000Z</updated>
       <summary type="html">
         
-          这两年，深度学习使得ASR服务的准确度大大提升。针对汉语，或者是中式英语，科大讯飞的服务做的不错【注意:这里是安利】。
+          主要介绍基于Seq2Seq Network的生成式的语言模型。
         
       </summary>
       <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
       
-        <category term="sdk" scheme="http://blog.chatbot.io/tags?tag=sdk"/>
-      
-        <category term="stt" scheme="http://blog.chatbot.io/tags?tag=stt"/>
-      
-        <category term="asr" scheme="http://blog.chatbot.io/tags?tag=asr"/>
+        <category term="thoughts" scheme="http://blog.chatbot.io/tags?tag=thoughts"/>
       
     </entry>
   
