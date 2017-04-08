@@ -2,8 +2,7 @@
   <div class="home">
     <div class="ui piled segments">
       <div class="ui clearing segment">
-        <h1 class="ui teal huge header">Chatbot Master Core</h1>
-        <!--<code class="ui grey small right floated header">// console.log(/all gone/)</code>-->
+        <h1 class="ui teal huge header">Chatbot Master</h1>
           <div class="ui grey small right floated header">
             <a href="https://zh.wikipedia.org/wiki/%E8%8E%B1%E7%89%B9%E5%85%84%E5%BC%9F"> Noble is not born, but trained.</a>
           </div>
@@ -14,18 +13,9 @@
         </div>
         <div class="content">
           <div class="meta">
-            <span class="date">Blog since Mar. 2017</span>
-          </div>
-          <div class="description">
-            <a href="https://samurais.github.io/implementation/2017/03/01/chatbot-age-is-coming/" target="_blank">The answer to life, the universe and everything</a>
+            <span class="date"> <i class="rocket icon"></i> Blog since Mar. 2017</span>
           </div>
         </div>
-        <div class="extra content">
-          <a href="/">
-            <i class="bug icon"></i>
-            x = x => x(x)
-          </a>
-        </div> 
       </div>
     </div>
   </div>
