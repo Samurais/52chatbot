@@ -9,7 +9,7 @@ disqus: true
 
 >  声明：请尊重原创，转载注明来源网站[Chatbot Master](http://blog.chatbot.io)
 
-在[上一篇文章](http://blog.chatbot.io/approaching-a-chatbot-service-part-1/)中，介绍了聊天机器人目前的发展。本篇主要介绍基于规则的，检索的聊天机器人引擎 - Bot Engine.
+在[上一篇文章](http://blog.chatbot.io/development/2017/01/01/approaching-a-chatbot-service-part-1/)中，介绍了聊天机器人目前的发展。本篇主要介绍基于规则的，检索的聊天机器人引擎 - Bot Engine.
 
 # 问题域
 ```

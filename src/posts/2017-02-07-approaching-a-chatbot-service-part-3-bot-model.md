@@ -386,17 +386,6 @@ e. 目前训练的结果都是QA对，对于一个问题，可以有多个答案
 f. 目前没有一个方法进行*accuracy*测试，一个思路是在训练中就提供干扰项，因为当前只有正确的答案，如果提供错误的答案（而且越多越好），就可以使用recall\_at\_k方法进行测试。
 
 
-> 最后
-
-欢迎联系我，尤其是业内人士，给予指正，一起优化。
-我的微信:
-
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-7.00.05-PM.png)
-
-添加好友请备注：cb
-
-
-
 # References
 [1. A Neural Conversational Model](https://arxiv.org/pdf/1506.05869v3.pdf)
 
