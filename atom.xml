@@ -4,7 +4,7 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-04-08T05:16:32.415Z</updated>
+  <updated>2017-04-08T05:22:55.519Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
@@ -14,8 +14,8 @@
   
     <entry>
       <title>Adversarial Learning for Neural Dialogue Generation</title>
-      <link href="http://blog.chatbot.io/implementation/2017/03/03/1701.06547-Adversarial%20Learning%20for%20Neural%20Dialogue%20Generation/"/>
-      <id>http://blog.chatbot.io/implementation/2017/03/03/1701.06547-Adversarial%20Learning%20for%20Neural%20Dialogue%20Generation/</id>
+      <link href="http://blog.chatbot.io/research/2017/03/03/1701.06547-Adversarial%20Learning%20for%20Neural%20Dialogue%20Generation/"/>
+      <id>http://blog.chatbot.io/research/2017/03/03/1701.06547-Adversarial%20Learning%20for%20Neural%20Dialogue%20Generation/</id>
       <published>2017-04-02T16:00:00.000Z</published>
       <updated>2017-04-02T16:00:00.000Z</updated>
       <summary type="html">
@@ -23,7 +23,7 @@
           基于GAN和RL的思想来训练对话生成
         
       </summary>
-      <category term="implementation" scheme="http://blog.chatbot.io/categories?category=implementation"/>
+      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
       
         <category term="torch" scheme="http://blog.chatbot.io/tags?tag=torch"/>
       
@@ -35,8 +35,8 @@
   
     <entry>
       <title>Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis</title>
-      <link href="http://blog.chatbot.io/implementation/2017/03/03/1601.04589-Combining%20Markov%20Random%20Fields%20and%20Convolutional%20Neural%20Networks%20for%20Image%20Synthesis/"/>
-      <id>http://blog.chatbot.io/implementation/2017/03/03/1601.04589-Combining%20Markov%20Random%20Fields%20and%20Convolutional%20Neural%20Networks%20for%20Image%20Synthesis/</id>
+      <link href="http://blog.chatbot.io/research/2017/03/03/1601.04589-Combining%20Markov%20Random%20Fields%20and%20Convolutional%20Neural%20Networks%20for%20Image%20Synthesis/"/>
+      <id>http://blog.chatbot.io/research/2017/03/03/1601.04589-Combining%20Markov%20Random%20Fields%20and%20Convolutional%20Neural%20Networks%20for%20Image%20Synthesis/</id>
       <published>2017-04-02T16:00:00.000Z</published>
       <updated>2017-04-02T16:00:00.000Z</updated>
       <summary type="html">
@@ -44,7 +44,7 @@
           使用MRF+CNN来做图片风格化
         
       </summary>
-      <category term="implementation" scheme="http://blog.chatbot.io/categories?category=implementation"/>
+      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
       
         <category term="torch" scheme="http://blog.chatbot.io/tags?tag=torch"/>
       
@@ -56,8 +56,8 @@
   
     <entry>
       <title>A Neural Conversational Model</title>
-      <link href="http://blog.chatbot.io/implementation/2017/03/02/1506.05869-A%20Neural%20Conversational%20Model/"/>
-      <id>http://blog.chatbot.io/implementation/2017/03/02/1506.05869-A%20Neural%20Conversational%20Model/</id>
+      <link href="http://blog.chatbot.io/research/2017/03/02/1506.05869-A%20Neural%20Conversational%20Model/"/>
+      <id>http://blog.chatbot.io/research/2017/03/02/1506.05869-A%20Neural%20Conversational%20Model/</id>
       <published>2017-04-01T16:00:00.000Z</published>
       <updated>2017-04-01T16:00:00.000Z</updated>
       <summary type="html">
@@ -65,7 +65,7 @@
           This work tries to reproduce the results of Google chatbot. It uses a RNN (seq2seq model) for sentence predictions. It is done using python and TensorFlow.
         
       </summary>
-      <category term="implementation" scheme="http://blog.chatbot.io/categories?category=implementation"/>
+      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
       
         <category term="seq2seq" scheme="http://blog.chatbot.io/tags?tag=seq2seq"/>
       
@@ -79,8 +79,8 @@
   
     <entry>
       <title>The answer to life, the universe and everything</title>
-      <link href="http://blog.chatbot.io/implementation/2017/03/01/chatbot-age-is-coming/"/>
-      <id>http://blog.chatbot.io/implementation/2017/03/01/chatbot-age-is-coming/</id>
+      <link href="http://blog.chatbot.io/thoughts/2017/03/01/chatbot-age-is-coming/"/>
+      <id>http://blog.chatbot.io/thoughts/2017/03/01/chatbot-age-is-coming/</id>
       <published>2017-03-31T16:00:00.000Z</published>
       <updated>2017-03-31T16:00:00.000Z</updated>
       <summary type="html">
@@ -88,9 +88,30 @@
           What is the meaning of life? bot: 42.
         
       </summary>
-      <category term="implementation" scheme="http://blog.chatbot.io/categories?category=implementation"/>
+      <category term="thoughts" scheme="http://blog.chatbot.io/categories?category=thoughts"/>
       
-        <category term="thoughts" scheme="http://blog.chatbot.io/tags?tag=thoughts"/>
+        <category term="others" scheme="http://blog.chatbot.io/tags?tag=others"/>
+      
+    </entry>
+  
+    <entry>
+      <title>科大讯飞 Node.js SDK</title>
+      <link href="http://blog.chatbot.io/development/2017/01/29/kedaxunfei-nodejs-sdk/"/>
+      <id>http://blog.chatbot.io/development/2017/01/29/kedaxunfei-nodejs-sdk/</id>
+      <published>2017-02-28T16:00:00.000Z</published>
+      <updated>2017-02-28T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          这两年，深度学习使得ASR服务的准确度大大提升。针对汉语，或者是中式英语，科大讯飞的服务做的不错【注意:这里是安利】。
+        
+      </summary>
+      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      
+        <category term="sdk" scheme="http://blog.chatbot.io/tags?tag=sdk"/>
+      
+        <category term="stt" scheme="http://blog.chatbot.io/tags?tag=stt"/>
+      
+        <category term="asr" scheme="http://blog.chatbot.io/tags?tag=asr"/>
       
     </entry>
   
