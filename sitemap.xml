@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
+    <loc>http://blog.chatbot.io/research/2016/11/27/ci-xiang-liang-word-embeddings-yu-xiang-guan-ying-yong/</loc>
+  </url>
+
+  <url>
+    <loc>http://blog.chatbot.io/research/2016/12/02/quickstart-tf-contrib-learn/</loc>
+  </url>
+
+  <url>
+    <loc>http://blog.chatbot.io/research/2016/12/25/xian-xing-dai-shu-ji-chu/</loc>
+  </url>
+
+  <url>
+    <loc>http://blog.chatbot.io/development/2017/01/23/guo-nei-ke-yong-mian-fei-yu-liao-ku/</loc>
+  </url>
+
+  <url>
     <loc>http://blog.chatbot.io/development/2017/01/29/kedaxunfei-nodejs-sdk/</loc>
   </url>
 
