@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Chatbot Master Core</title>
+  <title>Chatbot Master</title>
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="https://samurais.github.io"/>
-  <updated>2017-04-08T05:12:16.872Z</updated>
-  <id>https://samurais.github.io</id>
+  <link href="http://blog.chatbot.io"/>
+  <updated>2017-04-08T05:16:32.415Z</updated>
+  <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
-  <generator uri="https://samurais.github.io">blog-next</generator>
+  <generator uri="http://blog.chatbot.io">blog-next</generator>
   
     <entry>
       <title>Adversarial Learning for Neural Dialogue Generation</title>
-      <link href="https://samurais.github.io/implementation/2017/03/03/1701.06547-Adversarial%20Learning%20for%20Neural%20Dialogue%20Generation/"/>
-      <id>https://samurais.github.io/implementation/2017/03/03/1701.06547-Adversarial%20Learning%20for%20Neural%20Dialogue%20Generation/</id>
+      <link href="http://blog.chatbot.io/implementation/2017/03/03/1701.06547-Adversarial%20Learning%20for%20Neural%20Dialogue%20Generation/"/>
+      <id>http://blog.chatbot.io/implementation/2017/03/03/1701.06547-Adversarial%20Learning%20for%20Neural%20Dialogue%20Generation/</id>
       <published>2017-04-02T16:00:00.000Z</published>
       <updated>2017-04-02T16:00:00.000Z</updated>
       <summary type="html">
@@ -23,20 +23,20 @@
           基于GAN和RL的思想来训练对话生成
         
       </summary>
-      <category term="implementation" scheme="https://samurais.github.io/categories?category=implementation"/>
+      <category term="implementation" scheme="http://blog.chatbot.io/categories?category=implementation"/>
       
-        <category term="torch" scheme="https://samurais.github.io/tags?tag=torch"/>
+        <category term="torch" scheme="http://blog.chatbot.io/tags?tag=torch"/>
       
-        <category term="luarocks" scheme="https://samurais.github.io/tags?tag=luarocks"/>
+        <category term="luarocks" scheme="http://blog.chatbot.io/tags?tag=luarocks"/>
       
-        <category term="dialogue" scheme="https://samurais.github.io/tags?tag=dialogue"/>
+        <category term="dialogue" scheme="http://blog.chatbot.io/tags?tag=dialogue"/>
       
     </entry>
   
     <entry>
       <title>Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis</title>
-      <link href="https://samurais.github.io/implementation/2017/03/03/1601.04589-Combining%20Markov%20Random%20Fields%20and%20Convolutional%20Neural%20Networks%20for%20Image%20Synthesis/"/>
-      <id>https://samurais.github.io/implementation/2017/03/03/1601.04589-Combining%20Markov%20Random%20Fields%20and%20Convolutional%20Neural%20Networks%20for%20Image%20Synthesis/</id>
+      <link href="http://blog.chatbot.io/implementation/2017/03/03/1601.04589-Combining%20Markov%20Random%20Fields%20and%20Convolutional%20Neural%20Networks%20for%20Image%20Synthesis/"/>
+      <id>http://blog.chatbot.io/implementation/2017/03/03/1601.04589-Combining%20Markov%20Random%20Fields%20and%20Convolutional%20Neural%20Networks%20for%20Image%20Synthesis/</id>
       <published>2017-04-02T16:00:00.000Z</published>
       <updated>2017-04-02T16:00:00.000Z</updated>
       <summary type="html">
@@ -44,20 +44,20 @@
           使用MRF+CNN来做图片风格化
         
       </summary>
-      <category term="implementation" scheme="https://samurais.github.io/categories?category=implementation"/>
+      <category term="implementation" scheme="http://blog.chatbot.io/categories?category=implementation"/>
       
-        <category term="torch" scheme="https://samurais.github.io/tags?tag=torch"/>
+        <category term="torch" scheme="http://blog.chatbot.io/tags?tag=torch"/>
       
-        <category term="keras" scheme="https://samurais.github.io/tags?tag=keras"/>
+        <category term="keras" scheme="http://blog.chatbot.io/tags?tag=keras"/>
       
-        <category term="image" scheme="https://samurais.github.io/tags?tag=image"/>
+        <category term="image" scheme="http://blog.chatbot.io/tags?tag=image"/>
       
     </entry>
   
     <entry>
       <title>A Neural Conversational Model</title>
-      <link href="https://samurais.github.io/implementation/2017/03/02/1506.05869-A%20Neural%20Conversational%20Model/"/>
-      <id>https://samurais.github.io/implementation/2017/03/02/1506.05869-A%20Neural%20Conversational%20Model/</id>
+      <link href="http://blog.chatbot.io/implementation/2017/03/02/1506.05869-A%20Neural%20Conversational%20Model/"/>
+      <id>http://blog.chatbot.io/implementation/2017/03/02/1506.05869-A%20Neural%20Conversational%20Model/</id>
       <published>2017-04-01T16:00:00.000Z</published>
       <updated>2017-04-01T16:00:00.000Z</updated>
       <summary type="html">
@@ -65,22 +65,22 @@
           This work tries to reproduce the results of Google chatbot. It uses a RNN (seq2seq model) for sentence predictions. It is done using python and TensorFlow.
         
       </summary>
-      <category term="implementation" scheme="https://samurais.github.io/categories?category=implementation"/>
+      <category term="implementation" scheme="http://blog.chatbot.io/categories?category=implementation"/>
       
-        <category term="seq2seq" scheme="https://samurais.github.io/tags?tag=seq2seq"/>
+        <category term="seq2seq" scheme="http://blog.chatbot.io/tags?tag=seq2seq"/>
       
-        <category term="dialogue" scheme="https://samurais.github.io/tags?tag=dialogue"/>
+        <category term="dialogue" scheme="http://blog.chatbot.io/tags?tag=dialogue"/>
       
-        <category term="tensorflow" scheme="https://samurais.github.io/tags?tag=tensorflow"/>
+        <category term="tensorflow" scheme="http://blog.chatbot.io/tags?tag=tensorflow"/>
       
-        <category term="dialogue" scheme="https://samurais.github.io/tags?tag=dialogue"/>
+        <category term="dialogue" scheme="http://blog.chatbot.io/tags?tag=dialogue"/>
       
     </entry>
   
     <entry>
       <title>The answer to life, the universe and everything</title>
-      <link href="https://samurais.github.io/implementation/2017/03/01/chatbot-age-is-coming/"/>
-      <id>https://samurais.github.io/implementation/2017/03/01/chatbot-age-is-coming/</id>
+      <link href="http://blog.chatbot.io/implementation/2017/03/01/chatbot-age-is-coming/"/>
+      <id>http://blog.chatbot.io/implementation/2017/03/01/chatbot-age-is-coming/</id>
       <published>2017-03-31T16:00:00.000Z</published>
       <updated>2017-03-31T16:00:00.000Z</updated>
       <summary type="html">
@@ -88,9 +88,9 @@
           What is the meaning of life? bot: 42.
         
       </summary>
-      <category term="implementation" scheme="https://samurais.github.io/categories?category=implementation"/>
+      <category term="implementation" scheme="http://blog.chatbot.io/categories?category=implementation"/>
       
-        <category term="thoughts" scheme="https://samurais.github.io/tags?tag=thoughts"/>
+        <category term="thoughts" scheme="http://blog.chatbot.io/tags?tag=thoughts"/>
       
     </entry>
   
