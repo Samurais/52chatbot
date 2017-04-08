@@ -14,20 +14,19 @@ disqus: true
 [科大讯飞](http://www.xfyun.cn/)没有提供Node.js SDK， 我就造了这个轮子。
 
 * 目前仅支持 linux64，目前仅支持科大讯飞听写接口。
-
-```
+```bash
 # download xfyun sdks from official portal, a zip file like here.
 sudo unzip Linux_voice_1135_5864ae2d.zip -d /opt/xfy-sdk
 cd PROJECT_ROOT
 ```
 
 * Install
-```
+```bash
 npm install xfy-node --save
 ```
 
 ## Usage
-```
+```javascript
     const xfyclient = require('xfy-node');
     let params = {
         username: null, // 账号名称
@@ -63,14 +62,14 @@ npm install xfy-node --save
 https://github.com/Samurais/xfy-node-getstarted
 
 ## Contribution
-```
+```bash
 npm install
 node-gyp rebuild
 ava # test
 ```
 
 ## 讯飞提供的原始SDK
-```
+```bash
 git clone https://github.com/Samurais/xfyun-get-started
 ```
 
