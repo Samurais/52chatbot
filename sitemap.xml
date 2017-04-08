@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
+    <loc>http://blog.chatbot.io/research/2016/11/07/chatbot-based-on-ubuntu-dialogue-corpus/</loc>
+  </url>
+
+  <url>
     <loc>http://blog.chatbot.io/research/2016/11/27/ci-xiang-liang-word-embeddings-yu-xiang-guan-ying-yong/</loc>
   </url>
 
