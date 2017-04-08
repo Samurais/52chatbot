@@ -9,7 +9,7 @@ disqus: true
 
 >  声明：请尊重原创，转载注明来源网站[Chatbot Master](http://blog.chatbot.io)
 
-距离[上一篇文章](http://blog.chatbot.io/approaching-a-chatbot-service-part-2-bot-engine/)的发布也有一段时间了，这一个月左右的时间，一点也没有闲下来，直到春节终于有点时间总结一下。
+距离[上一篇文章](http://blog.chatbot.io/development/2017/01/02/approaching-a-chatbot-service-part-2-bot-engine/)的发布也有一段时间了，这一个月左右的时间，一点也没有闲下来，直到春节终于有点时间总结一下。
 
 在春晚开播的前五分钟，终于将项目重构了一下，而且以开源的形式回馈到社区。
 
