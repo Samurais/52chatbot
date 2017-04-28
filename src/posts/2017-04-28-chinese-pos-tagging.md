@@ -7,6 +7,8 @@ tags: [pos]
 disqus: true
 ---
 
+# TL;DR
+
 ## 启动服务
 
 ```
@@ -18,6 +20,7 @@ docker run -it --rm -p 3002:3000 samurais/hanlp-api:1.0.0
 ## 访问服务
 
 * 中文分词
+
 ```
 POST /tokenizer HTTP/1.1
 Host: localhost:3002
@@ -30,6 +33,7 @@ Content-Type: application/json
 ```
 
 * 关键词提取
+
 ```
 POST /keyword HTTP/1.1
 Host: localhost:3002
