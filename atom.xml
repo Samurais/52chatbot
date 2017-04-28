@@ -4,13 +4,30 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-04-08T07:25:56.787Z</updated>
+  <updated>2017-04-28T14:30:39.340Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>中文分词及词性标注</title>
+      <link href="http://blog.chatbot.io/development/2017/04/28/chinese-pos-tagging/"/>
+      <id>http://blog.chatbot.io/development/2017/04/28/chinese-pos-tagging/</id>
+      <published>2017-05-27T16:00:00.000Z</published>
+      <updated>2017-05-27T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          支持中文分词（N-最短路分词、CRF分词、索引分词、用户自定义词典、词性标注），命名实体识别（中国人名、音译人名、日本人名、地名、实体机构名识别），关键词提取，自动摘要，短语提取，拼音转换，简繁转换，文本推荐，依存句法分析（MaxEnt依存句法分析、CRF依存句法分析）
+        
+      </summary>
+      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      
+        <category term="pos" scheme="http://blog.chatbot.io/tags?tag=pos"/>
+      
+    </entry>
   
     <entry>
       <title>Adversarial Learning for Neural Dialogue Generation</title>
@@ -91,23 +108,6 @@
       <category term="thoughts" scheme="http://blog.chatbot.io/categories?category=thoughts"/>
       
         <category term="others" scheme="http://blog.chatbot.io/tags?tag=others"/>
-      
-    </entry>
-  
-    <entry>
-      <title>Approaching a Chatbot Service - Part 3: Bot Model</title>
-      <link href="http://blog.chatbot.io/development/2017/02/07/approaching-a-chatbot-service-part-3-bot-model/"/>
-      <id>http://blog.chatbot.io/development/2017/02/07/approaching-a-chatbot-service-part-3-bot-model/</id>
-      <published>2017-03-06T16:00:00.000Z</published>
-      <updated>2017-03-06T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          主要介绍基于Seq2Seq Network的生成式的语言模型。
-        
-      </summary>
-      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
-      
-        <category term="thoughts" scheme="http://blog.chatbot.io/tags?tag=thoughts"/>
       
     </entry>
   
