@@ -10,10 +10,13 @@ disqus: true
 # Paper
 <!-- 论文地址，说明论文要解决的问题 -->
 Examples of basic model can be found in this paper.
+
 https://arxiv.org/abs/1702.05512
 
 # Implementation
 <!-- 对应论文的实现：开源码地址，数据等 -->
+
+https://github.com/pbhatia243/Neural_Conversation_Models
 
 This implementation contains an extension of seq2seq tutorial for conversation models in Tensorflow:
 
