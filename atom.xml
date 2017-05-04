@@ -4,13 +4,36 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-04-28T14:33:51.311Z</updated>
+  <updated>2017-05-04T06:12:09.627Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>Attention based Seq2seq Neural Conversation Models</title>
+      <link href="http://blog.chatbot.io/research/2017/05/04/seq2seq-att-beam-search/"/>
+      <id>http://blog.chatbot.io/research/2017/05/04/seq2seq-att-beam-search/</id>
+      <published>2017-06-03T16:00:00.000Z</published>
+      <updated>2017-06-03T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          This implementation contains an extension of seq2seq tutorial for conversation models in Tensorflow: Option to use Beam Search and Beam Size for decoding, Simple seq2seq models, Attention based seq2seq models.
+        
+      </summary>
+      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
+      
+        <category term="seq2seq" scheme="http://blog.chatbot.io/tags?tag=seq2seq"/>
+      
+        <category term="dialogue" scheme="http://blog.chatbot.io/tags?tag=dialogue"/>
+      
+        <category term="tensorflow" scheme="http://blog.chatbot.io/tags?tag=tensorflow"/>
+      
+        <category term="dialogue" scheme="http://blog.chatbot.io/tags?tag=dialogue"/>
+      
+    </entry>
   
     <entry>
       <title>中文分词及词性标注</title>
@@ -91,23 +114,6 @@
         <category term="tensorflow" scheme="http://blog.chatbot.io/tags?tag=tensorflow"/>
       
         <category term="dialogue" scheme="http://blog.chatbot.io/tags?tag=dialogue"/>
-      
-    </entry>
-  
-    <entry>
-      <title>The answer to life, the universe and everything</title>
-      <link href="http://blog.chatbot.io/thoughts/2017/03/01/chatbot-age-is-coming/"/>
-      <id>http://blog.chatbot.io/thoughts/2017/03/01/chatbot-age-is-coming/</id>
-      <published>2017-03-31T16:00:00.000Z</published>
-      <updated>2017-03-31T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          What is the meaning of life? bot: 42.
-        
-      </summary>
-      <category term="thoughts" scheme="http://blog.chatbot.io/categories?category=thoughts"/>
-      
-        <category term="others" scheme="http://blog.chatbot.io/tags?tag=others"/>
       
     </entry>
   

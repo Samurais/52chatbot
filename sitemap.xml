@@ -89,4 +89,8 @@
     <loc>http://blog.chatbot.io/development/2017/04/28/chinese-pos-tagging/</loc>
   </url>
 
+  <url>
+    <loc>http://blog.chatbot.io/research/2017/05/04/seq2seq-att-beam-search/</loc>
+  </url>
+
 </urlset>
