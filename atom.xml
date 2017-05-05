@@ -4,13 +4,30 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-05-04T06:17:17.301Z</updated>
+  <updated>2017-05-05T03:59:16.625Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>The Natural Language Processing Dictionary</title>
+      <link href="http://blog.chatbot.io/research/2017/05/05/nlp-dict/"/>
+      <id>http://blog.chatbot.io/research/2017/05/05/nlp-dict/</id>
+      <published>2017-06-04T16:00:00.000Z</published>
+      <updated>2017-06-04T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          You should use The NLP Dictionary to clarify or revise concepts that you have already met. The NLP Dictionary is not a suitable way to begin to learn about NLP. Further information on NLP can be found in the class web page lecture notes section. Other places to find out about artificial intelligence include the AAAI (American Association for Artificial Intelligence) AI Reference Shelf
+        
+      </summary>
+      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
+      
+        <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
+      
+    </entry>
   
     <entry>
       <title>Attention based Seq2seq Neural Conversation Models</title>
@@ -91,29 +108,6 @@
         <category term="keras" scheme="http://blog.chatbot.io/tags?tag=keras"/>
       
         <category term="image" scheme="http://blog.chatbot.io/tags?tag=image"/>
-      
-    </entry>
-  
-    <entry>
-      <title>A Neural Conversational Model</title>
-      <link href="http://blog.chatbot.io/research/2017/03/02/1506.05869-A%20Neural%20Conversational%20Model/"/>
-      <id>http://blog.chatbot.io/research/2017/03/02/1506.05869-A%20Neural%20Conversational%20Model/</id>
-      <published>2017-04-01T16:00:00.000Z</published>
-      <updated>2017-04-01T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          This work tries to reproduce the results of Google chatbot. It uses a RNN (seq2seq model) for sentence predictions. It is done using python and TensorFlow.
-        
-      </summary>
-      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
-      
-        <category term="seq2seq" scheme="http://blog.chatbot.io/tags?tag=seq2seq"/>
-      
-        <category term="dialogue" scheme="http://blog.chatbot.io/tags?tag=dialogue"/>
-      
-        <category term="tensorflow" scheme="http://blog.chatbot.io/tags?tag=tensorflow"/>
-      
-        <category term="dialogue" scheme="http://blog.chatbot.io/tags?tag=dialogue"/>
       
     </entry>
   
