@@ -4,13 +4,34 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-05-05T03:59:16.625Z</updated>
+  <updated>2017-05-08T08:12:36.119Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>Sequence-to-Sequence Learning as Beam-Search Optimization</title>
+      <link href="http://blog.chatbot.io/research/2017/05/08/seq2seq-beam-Search/"/>
+      <id>http://blog.chatbot.io/research/2017/05/08/seq2seq-beam-Search/</id>
+      <published>2017-06-07T16:00:00.000Z</published>
+      <updated>2017-06-07T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          introduce a model and beam-search training scheme, based on the work of Daume III and Marcu (2005), that extends seq2seq to learn global sequence scores. This structured approach avoids classical biases associated with local training and unifies the training loss with the test-time usage, while preserving the proven model architecture of seq2seq and its efficient training approach. 
+        
+      </summary>
+      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
+      
+        <category term="seq2seq" scheme="http://blog.chatbot.io/tags?tag=seq2seq"/>
+      
+        <category term="dialogue" scheme="http://blog.chatbot.io/tags?tag=dialogue"/>
+      
+        <category term="tensorflow" scheme="http://blog.chatbot.io/tags?tag=tensorflow"/>
+      
+    </entry>
   
     <entry>
       <title>The Natural Language Processing Dictionary</title>
@@ -47,8 +68,6 @@
         <category term="dialogue" scheme="http://blog.chatbot.io/tags?tag=dialogue"/>
       
         <category term="tensorflow" scheme="http://blog.chatbot.io/tags?tag=tensorflow"/>
-      
-        <category term="dialogue" scheme="http://blog.chatbot.io/tags?tag=dialogue"/>
       
     </entry>
   
@@ -87,27 +106,6 @@
         <category term="luarocks" scheme="http://blog.chatbot.io/tags?tag=luarocks"/>
       
         <category term="dialogue" scheme="http://blog.chatbot.io/tags?tag=dialogue"/>
-      
-    </entry>
-  
-    <entry>
-      <title>Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis</title>
-      <link href="http://blog.chatbot.io/research/2017/03/03/1601.04589-Combining%20Markov%20Random%20Fields%20and%20Convolutional%20Neural%20Networks%20for%20Image%20Synthesis/"/>
-      <id>http://blog.chatbot.io/research/2017/03/03/1601.04589-Combining%20Markov%20Random%20Fields%20and%20Convolutional%20Neural%20Networks%20for%20Image%20Synthesis/</id>
-      <published>2017-04-02T16:00:00.000Z</published>
-      <updated>2017-04-02T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          使用MRF+CNN来做图片风格化
-        
-      </summary>
-      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
-      
-        <category term="torch" scheme="http://blog.chatbot.io/tags?tag=torch"/>
-      
-        <category term="keras" scheme="http://blog.chatbot.io/tags?tag=keras"/>
-      
-        <category term="image" scheme="http://blog.chatbot.io/tags?tag=image"/>
       
     </entry>
   
