@@ -3,7 +3,7 @@ layout: post
 title: "Attention based Seq2seq Neural Conversation Models"
 excerpt: "This implementation contains an extension of seq2seq tutorial for conversation models in Tensorflow: Option to use Beam Search and Beam Size for decoding, Simple seq2seq models, Attention based seq2seq models."
 category: research
-tags: [seq2seq, dialogue, tensorflow, dialogue]
+tags: [seq2seq, dialogue, tensorflow]
 disqus: true
 ---
 
