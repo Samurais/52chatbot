@@ -16,7 +16,11 @@ https://arxiv.org/abs/1702.05512
 # Implementation
 <!-- 对应论文的实现：开源码地址，数据等 -->
 
+* Python2, TensorFlow 0.12.1
 https://github.com/pbhatia243/Neural_Conversation_Models
+
+* Python3, TensorFlow 0.12.1
+https://github.com/Samurais/Neural_Conversation_Models
 
 This implementation contains an extension of seq2seq tutorial for conversation models in Tensorflow:
 
