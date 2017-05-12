@@ -4,13 +4,30 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-05-12T07:16:21.014Z</updated>
+  <updated>2017-05-12T08:32:58.060Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>语音识别服务</title>
+      <link href="http://blog.chatbot.io/development/2017/05/12/tts-service/"/>
+      <id>http://blog.chatbot.io/development/2017/05/12/tts-service/</id>
+      <published>2017-06-11T16:00:00.000Z</published>
+      <updated>2017-06-11T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          支持格式：wav, silk，最低采样率(16,000)；支持语言：简体中文，繁体中文，英语；支持口音：普通话，粤语；Powered by 讯飞开放平台
+        
+      </summary>
+      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      
+        <category term="stt" scheme="http://blog.chatbot.io/tags?tag=stt"/>
+      
+    </entry>
   
     <entry>
       <title>Sequence-to-Sequence Learning as Beam-Search Optimization</title>
@@ -85,27 +102,6 @@
       <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
       
         <category term="pos" scheme="http://blog.chatbot.io/tags?tag=pos"/>
-      
-    </entry>
-  
-    <entry>
-      <title>Adversarial Learning for Neural Dialogue Generation</title>
-      <link href="http://blog.chatbot.io/research/2017/03/03/1701.06547-Adversarial%20Learning%20for%20Neural%20Dialogue%20Generation/"/>
-      <id>http://blog.chatbot.io/research/2017/03/03/1701.06547-Adversarial%20Learning%20for%20Neural%20Dialogue%20Generation/</id>
-      <published>2017-04-02T16:00:00.000Z</published>
-      <updated>2017-04-02T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          基于GAN和RL的思想来训练对话生成
-        
-      </summary>
-      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
-      
-        <category term="torch" scheme="http://blog.chatbot.io/tags?tag=torch"/>
-      
-        <category term="luarocks" scheme="http://blog.chatbot.io/tags?tag=luarocks"/>
-      
-        <category term="dialogue" scheme="http://blog.chatbot.io/tags?tag=dialogue"/>
       
     </entry>
   
