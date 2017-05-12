@@ -7,6 +7,7 @@ import Post from './components/Post'
 import Home from './components/Home'
 import Categories from './components/Categories'
 import Tags from './components/Tags'
+import Videos from './components/Videos'
 
 Vue.use(VueRouter)
 
@@ -37,6 +38,9 @@ router.map({
       },
       '/:category/:year/:month/:day/': {
         component: Post
+      },
+      '/videos': {
+        component: Videos
       }
     }
   }
