@@ -5,19 +5,19 @@
       <div class="social-videos">
         <h4>SuperScript: A dialog system and bot engine</h4> 
         <p><a href="http://www.leiphone.com/news/201704/JvBW78wfyvcfB4xW.html" target="_blank">@Leiphone Talk</a> / Apr. 7, 2017</p>
-        <iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=u0392y7e4xo&tiny=0&auto=0"
+        <iframe frameborder="0" width="320" height="249" src="https://v.qq.com/iframe/player.html?vid=u0392y7e4xo&tiny=0&auto=0"
           allowfullscreen></iframe>
         <br><br>
 
         <h4>Get started with DeepLearning and TensorFlow</h4> 
         <p><a href="https://github.com/rockq-org/chatbot-master-core" target="_blank">@Chatbot Master</a> / Feb. 26, 2017</p>
-        <iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=u0380c9l3qg&tiny=0&auto=0"
+        <iframe frameborder="0" width="320" height="249" src="https://v.qq.com/iframe/player.html?vid=u0380c9l3qg&tiny=0&auto=0"
           allowfullscreen></iframe>
         <br><br>
 
         <h4>Artificial Intelligence and Chatbot</h4> 
         <p><a href="https://github.com/rockq-org/node-party" target="_blank">@NodeParty</a> / Jul. 23, 2016</p>
-        <iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=v0318almc1k&tiny=0&auto=0" allowfullscreen></iframe>
+        <iframe frameborder="0" width="320" height="249" src="http://v.qq.com/iframe/player.html?vid=v0318almc1k&tiny=0&auto=0" allowfullscreen></iframe>
         <br><br>
       </div>
   </div>
