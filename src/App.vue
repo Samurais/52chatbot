@@ -9,6 +9,7 @@
       <a class="item" v-link="{path: '/categories'}">Categories</a>
       <a class="item" v-link="{path: '/tags'}">Tags</a>
       <a class="item" href="/atom.xml">RSS</a>
+      <a class="item" href="http://blog.chatbot.io/webcv/" target="_blank">About me</a>
     </div>
     <router-view></router-view>
     <div class="ui center aligned segment">
