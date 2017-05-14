@@ -33,7 +33,9 @@
               {{ post.category }}
             </a>
           </div>
-          <div class="description">
+          <div class="description" v-link="{
+            path: '/' + post.category + '/' + post.year + '/' + post.month + '/' + post.day + '/' + (post._title ? post._title + '/' : '')
+          }">
             <span>
               {{ post.excerpt }}
             </span>
