@@ -9,7 +9,7 @@
       </div>
       <div class="ui centered card">
         <div class="image">
-          <img :src="'https://unsplash.it/320/240?random&' + Math.random()">
+            <img :src="'https://unsplash.it/320/240?random&' + Math.random()" v-link="{path: 'archives'}">
         </div>
         <div class="content">
           <div class="meta">
