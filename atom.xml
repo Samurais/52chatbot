@@ -4,13 +4,30 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-05-14T08:08:26.360Z</updated>
+  <updated>2017-05-19T06:21:13.516Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>Deliver dialogs with SuperScript</title>
+      <link href="http://blog.chatbot.io/development/2017/05/19/ss-wechaty/"/>
+      <id>http://blog.chatbot.io/development/2017/05/19/ss-wechaty/</id>
+      <published>2017-06-18T16:00:00.000Z</published>
+      <updated>2017-06-18T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          SuperScript是一个开源的对话引擎。使用SuperScript定义的语法，书写脚本文件，然后使用编译工具，生成对话元数据，然后提供对话服务，本文使用wechaty和用户进行对接。
+        
+      </summary>
+      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      
+        <category term="engine" scheme="http://blog.chatbot.io/tags?tag=engine"/>
+      
+    </entry>
   
     <entry>
       <title>语音识别服务</title>
@@ -85,23 +102,6 @@
         <category term="dialogue" scheme="http://blog.chatbot.io/tags?tag=dialogue"/>
       
         <category term="tensorflow" scheme="http://blog.chatbot.io/tags?tag=tensorflow"/>
-      
-    </entry>
-  
-    <entry>
-      <title>中文分词及词性标注</title>
-      <link href="http://blog.chatbot.io/development/2017/04/28/chinese-pos-tagging/"/>
-      <id>http://blog.chatbot.io/development/2017/04/28/chinese-pos-tagging/</id>
-      <published>2017-05-27T16:00:00.000Z</published>
-      <updated>2017-05-27T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          支持中文分词（N-最短路分词、CRF分词、索引分词、用户自定义词典、词性标注），命名实体识别（中国人名、音译人名、日本人名、地名、实体机构名识别），关键词提取，自动摘要，短语提取，拼音转换，简繁转换，文本推荐，依存句法分析（MaxEnt依存句法分析、CRF依存句法分析）
-        
-      </summary>
-      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
-      
-        <category term="pos" scheme="http://blog.chatbot.io/tags?tag=pos"/>
       
     </entry>
   
