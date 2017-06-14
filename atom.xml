@@ -4,7 +4,7 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-06-14T09:00:22.161Z</updated>
+  <updated>2017-06-14T10:29:30.234Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
@@ -47,6 +47,23 @@
     </entry>
   
     <entry>
+      <title>使用ElasticSearch查询</title>
+      <link href="http://blog.chatbot.io/development/2017/06/14/elasticsearch-query/"/>
+      <id>http://blog.chatbot.io/development/2017/06/14/elasticsearch-query/</id>
+      <published>2017-07-13T16:00:00.000Z</published>
+      <updated>2017-07-13T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          ElasticSearch作为优秀的开源搜索引擎解决方案，拥有强大的数据管理能力。其中，怎么高效率的使用Query是ElasticSearch的重点。
+        
+      </summary>
+      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      
+        <category term="search" scheme="http://blog.chatbot.io/tags?tag=search"/>
+      
+    </entry>
+  
+    <entry>
       <title>余弦相似性</title>
       <link href="http://blog.chatbot.io/development/2017/06/14/cosine-similarity/"/>
       <id>http://blog.chatbot.io/development/2017/06/14/cosine-similarity/</id>
@@ -77,23 +94,6 @@
       <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
       
         <category term="engine" scheme="http://blog.chatbot.io/tags?tag=engine"/>
-      
-    </entry>
-  
-    <entry>
-      <title>语音识别服务</title>
-      <link href="http://blog.chatbot.io/development/2017/05/12/tts-service/"/>
-      <id>http://blog.chatbot.io/development/2017/05/12/tts-service/</id>
-      <published>2017-06-11T16:00:00.000Z</published>
-      <updated>2017-06-11T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          支持格式：wav, silk，最低采样率(16,000)；支持语言：简体中文，繁体中文，英语；支持口音：普通话，粤语；Powered by 讯飞开放平台
-        
-      </summary>
-      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
-      
-        <category term="stt" scheme="http://blog.chatbot.io/tags?tag=stt"/>
       
     </entry>
   
