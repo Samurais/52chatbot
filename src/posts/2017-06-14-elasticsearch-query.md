@@ -52,10 +52,14 @@ disqus: true
 ```
 * [bool](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html)
 
+A query that matches documents matching boolean combinations of other queries. 
+
 * must
+
 The clause must appear in matching documents and will contribute to the score.
 
 * should
+
 The clause should appear in the matching document. 
 
 If the bool query is in a query context and has a must or filter clause then a document will match the bool query even if none of the should queries match. In this case these clauses are only used to influence the score. 
@@ -70,9 +74,11 @@ Now if u do not want this partial score to be given in your query then you shoul
 
 
 ## must, should
+
 对于must和should，存储数据的形式是一样的。如果有多个查询条件，就放在数组中，如果只有一个查询条件，则可以直接赋值。
 
 * [match](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-match-query.html)
+
 ```
 "must|should": [
     {
@@ -82,6 +88,7 @@ Now if u do not want this partial score to be given in your query then you shoul
 ```
 
 > 如果包含多个条件，不同条件之间可以使用 operator。Default **or**.
+
 ```
 "must|should": [
     {
@@ -93,6 +100,7 @@ Now if u do not want this partial score to be given in your query then you shoul
 
 
 * [range](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-range-query.html)
+
 ```
 "must|should": [
     {
@@ -110,6 +118,7 @@ The term query finds documents that contain the exact term specified in the inve
 Filters documents that have fields that match any of the provided terms (not analyzed).
 
 * boost
+
 A boost parameter can be specified to give this term query a higher relevance score than another query.
 
 ## [Term v.s. Match](https://www.elastic.co/guide/en/elasticsearch/guide/current/term-vs-full-text.html)
@@ -134,6 +143,7 @@ Once the query has assembled a list of terms, it executes the appropriate low-le
 ## 其他
 
 * filter, must_not
+
 这两个关键字和*must*, *should*在同一级别。
 
 The *filter* clause must appear in matching documents. However unlike must the score of the query will be ignored. Filter clauses are executed in filter context, meaning that scoring is ignored and clauses are considered for caching.
@@ -141,5 +151,6 @@ The *filter* clause must appear in matching documents. However unlike must the s
 The *must_not* clause must not appear in the matching documents. Clauses are executed in filter context meaning that scoring is ignored and clauses are considered for caching. Because scoring is ignored, a score of 0 for all documents is returned.
 
 ## 参考
+
 [Elasticsearch 权威指南（中文版）](https://es.xiaoleilu.com/)
 
