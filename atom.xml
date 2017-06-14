@@ -4,7 +4,7 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-06-14T05:29:57.903Z</updated>
+  <updated>2017-06-14T05:34:05.277Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
@@ -37,9 +37,7 @@
       <updated>2017-07-13T16:00:00.000Z</updated>
       <summary type="html">
         
-          <p><a href="https://zh.wikipedia.org/wiki/%E4%BD%99%E5%BC%A6%E7%9B%B8%E4%BC%BC%E6%80%A7">余弦相似性</a>: 通过计算两个向量的夹角余弦值来评估他们的相似度。</p>
-<p>![](<a href="http://7xkeqi.com1.z0.g">http://7xkeqi.com1.z0.g</a>...</p>
-
+          判断两个文章或者句子相似程度的一个算法。根据向量坐标，绘制在空间中，求得夹角的Cos值。Cos值越接近1，则说明夹角越小，即两向量相似。
         
       </summary>
       <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
