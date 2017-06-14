@@ -138,7 +138,7 @@ If you query an exact value (not_analyzed) string field, they will treat the who
 But if you query a full-text (analyzed) field, they will first pass the query string through the appropriate analyzer to produce the list of terms to be queried.
 Once the query has assembled a list of terms, it executes the appropriate low-level query for each of these terms, and then combines their results to produce the final relevance score for each document.
 
-> match 全文匹配， term 部分匹配。
+> [match](https://www.elastic.co/guide/en/elasticsearch/reference/2.4/query-dsl-match-query.html) 全文匹配， term 严格匹配。
 
 ## 其他
 
