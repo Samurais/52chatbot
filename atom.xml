@@ -4,7 +4,7 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-06-14T04:57:37.145Z</updated>
+  <updated>2017-06-14T05:29:57.903Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
@@ -21,6 +21,25 @@
       <summary type="html">
         
           词频和逆文档频率算法简单快速，结果处理符合实际情况，可以用在关键词提取，信息检索等很多地方。
+        
+      </summary>
+      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      
+        <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
+      
+    </entry>
+  
+    <entry>
+      <title>余弦相似性</title>
+      <link href="http://blog.chatbot.io/development/2017/06/14/cosine-similarity/"/>
+      <id>http://blog.chatbot.io/development/2017/06/14/cosine-similarity/</id>
+      <published>2017-07-13T16:00:00.000Z</published>
+      <updated>2017-07-13T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          <p><a href="https://zh.wikipedia.org/wiki/%E4%BD%99%E5%BC%A6%E7%9B%B8%E4%BC%BC%E6%80%A7">余弦相似性</a>: 通过计算两个向量的夹角余弦值来评估他们的相似度。</p>
+<p>![](<a href="http://7xkeqi.com1.z0.g">http://7xkeqi.com1.z0.g</a>...</p>
+
         
       </summary>
       <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
@@ -81,23 +100,6 @@
         <category term="dialogue" scheme="http://blog.chatbot.io/tags?tag=dialogue"/>
       
         <category term="tensorflow" scheme="http://blog.chatbot.io/tags?tag=tensorflow"/>
-      
-    </entry>
-  
-    <entry>
-      <title>The Natural Language Processing Dictionary</title>
-      <link href="http://blog.chatbot.io/research/2017/05/05/nlp-dict/"/>
-      <id>http://blog.chatbot.io/research/2017/05/05/nlp-dict/</id>
-      <published>2017-06-04T16:00:00.000Z</published>
-      <updated>2017-06-04T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          You should use The NLP Dictionary to clarify or revise concepts that you have already met. The NLP Dictionary is not a suitable way to begin to learn about NLP. Further information on NLP can be found in the class web page lecture notes section. Other places to find out about artificial intelligence include the AAAI (American Association for Artificial Intelligence) AI Reference Shelf
-        
-      </summary>
-      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
-      
-        <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
       
     </entry>
   
