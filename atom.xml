@@ -4,13 +4,30 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-06-14T05:34:05.277Z</updated>
+  <updated>2017-06-14T08:52:48.794Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>Trie Tree</title>
+      <link href="http://blog.chatbot.io/development/2017/06/14/trietree/"/>
+      <id>http://blog.chatbot.io/development/2017/06/14/trietree/</id>
+      <published>2017-07-13T16:00:00.000Z</published>
+      <updated>2017-07-13T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          Trie Tree广泛的使用与分词和检索算法中。给出数据定义和工作原理，python的实现。
+        
+      </summary>
+      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      
+        <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
+      
+    </entry>
   
     <entry>
       <title>TF-IDF</title>
@@ -77,27 +94,6 @@
       <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
       
         <category term="stt" scheme="http://blog.chatbot.io/tags?tag=stt"/>
-      
-    </entry>
-  
-    <entry>
-      <title>Sequence-to-Sequence Learning as Beam-Search Optimization</title>
-      <link href="http://blog.chatbot.io/research/2017/05/08/seq2seq-beam-Search/"/>
-      <id>http://blog.chatbot.io/research/2017/05/08/seq2seq-beam-Search/</id>
-      <published>2017-06-07T16:00:00.000Z</published>
-      <updated>2017-06-07T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          introduce a model and beam-search training scheme, based on the work of Daume III and Marcu (2005), that extends seq2seq to learn global sequence scores. This structured approach avoids classical biases associated with local training and unifies the training loss with the test-time usage, while preserving the proven model architecture of seq2seq and its efficient training approach. 
-        
-      </summary>
-      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
-      
-        <category term="seq2seq" scheme="http://blog.chatbot.io/tags?tag=seq2seq"/>
-      
-        <category term="dialogue" scheme="http://blog.chatbot.io/tags?tag=dialogue"/>
-      
-        <category term="tensorflow" scheme="http://blog.chatbot.io/tags?tag=tensorflow"/>
       
     </entry>
   
