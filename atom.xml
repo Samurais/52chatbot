@@ -4,13 +4,30 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-06-14T10:36:16.814Z</updated>
+  <updated>2017-06-16T05:36:07.629Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>C++ 正则表达式用法</title>
+      <link href="http://blog.chatbot.io/development/2017/06/16/cpp-regex/"/>
+      <id>http://blog.chatbot.io/development/2017/06/16/cpp-regex/</id>
+      <published>2017-07-15T16:00:00.000Z</published>
+      <updated>2017-07-15T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          正则表达式作为自然语言处理的最基本的操作，给出C++的使用方案。
+        
+      </summary>
+      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      
+        <category term="program" scheme="http://blog.chatbot.io/tags?tag=program"/>
+      
+    </entry>
   
     <entry>
       <title>Trie Tree</title>
@@ -77,23 +94,6 @@
       <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
       
         <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
-      
-    </entry>
-  
-    <entry>
-      <title>Deliver dialogs with SuperScript</title>
-      <link href="http://blog.chatbot.io/development/2017/05/19/ss-wechaty/"/>
-      <id>http://blog.chatbot.io/development/2017/05/19/ss-wechaty/</id>
-      <published>2017-06-18T16:00:00.000Z</published>
-      <updated>2017-06-18T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          SuperScript是一个开源的对话引擎。使用SuperScript定义的语法，书写脚本文件，然后使用编译工具，生成对话元数据，然后提供对话服务，本文使用wechaty和用户进行对接。
-        
-      </summary>
-      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
-      
-        <category term="engine" scheme="http://blog.chatbot.io/tags?tag=engine"/>
       
     </entry>
   
