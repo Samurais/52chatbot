@@ -4,13 +4,30 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-06-17T05:24:10.795Z</updated>
+  <updated>2017-06-17T11:35:40.457Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>Word2Vec</title>
+      <link href="http://blog.chatbot.io/development/2017/06/17/word2vec/"/>
+      <id>http://blog.chatbot.io/development/2017/06/17/word2vec/</id>
+      <published>2017-07-16T16:00:00.000Z</published>
+      <updated>2017-07-16T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          Word2Vec完成了从文字，句子到空间向量的映射，是计算相似度和检索常用的方法。在使用机器学习技术训练文本以前，常用来做Word Embedding。
+        
+      </summary>
+      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      
+        <category term="program" scheme="http://blog.chatbot.io/tags?tag=program"/>
+      
+    </entry>
   
     <entry>
       <title>最大字串问题</title>
@@ -77,23 +94,6 @@
       <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
       
         <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
-      
-    </entry>
-  
-    <entry>
-      <title>使用ElasticSearch查询</title>
-      <link href="http://blog.chatbot.io/development/2017/06/14/elasticsearch-query/"/>
-      <id>http://blog.chatbot.io/development/2017/06/14/elasticsearch-query/</id>
-      <published>2017-07-13T16:00:00.000Z</published>
-      <updated>2017-07-13T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          ElasticSearch作为优秀的开源搜索引擎解决方案，拥有强大的数据管理能力。其中，怎么高效率的使用Query是ElasticSearch的重点。
-        
-      </summary>
-      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
-      
-        <category term="search" scheme="http://blog.chatbot.io/tags?tag=search"/>
       
     </entry>
   
