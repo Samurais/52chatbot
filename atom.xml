@@ -4,13 +4,30 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-06-16T05:36:07.629Z</updated>
+  <updated>2017-06-17T05:24:10.795Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>最大字串问题</title>
+      <link href="http://blog.chatbot.io/development/2017/06/17/cpp-longest-common-string/"/>
+      <id>http://blog.chatbot.io/development/2017/06/17/cpp-longest-common-string/</id>
+      <published>2017-07-16T16:00:00.000Z</published>
+      <updated>2017-07-16T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          寻找两个字符串中的最大字串问题，是算法中的经典问题，出现在面试和实际应用中，屡见不鲜。本文给出了C++中的实现。
+        
+      </summary>
+      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      
+        <category term="program" scheme="http://blog.chatbot.io/tags?tag=program"/>
+      
+    </entry>
   
     <entry>
       <title>C++ 正则表达式用法</title>
@@ -77,23 +94,6 @@
       <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
       
         <category term="search" scheme="http://blog.chatbot.io/tags?tag=search"/>
-      
-    </entry>
-  
-    <entry>
-      <title>余弦相似性</title>
-      <link href="http://blog.chatbot.io/development/2017/06/14/cosine-similarity/"/>
-      <id>http://blog.chatbot.io/development/2017/06/14/cosine-similarity/</id>
-      <published>2017-07-13T16:00:00.000Z</published>
-      <updated>2017-07-13T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          判断两个文章或者句子相似程度的一个算法。根据向量坐标，绘制在空间中，求得夹角的Cos值。Cos值越接近1，则说明夹角越小，即两向量相似。
-        
-      </summary>
-      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
-      
-        <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
       
     </entry>
   
