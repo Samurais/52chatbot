@@ -25,13 +25,14 @@ disqus: true
 | “A clean but forgettable game” | 	Sports
 | “It was a close election” | 	Not sports
 
+
 如果我们需要判断"A very close game "属于哪一类，该怎么做呢？
 
 朴素贝叶斯是基于概率的分类器，我们就会分别计算它属于"Sports"和"Not Sports"的概率，比较谁的值大。
 
 写成数学公式: *P(Sports | a very close game)*，即当"a very close game"发生的时候，"Sports"出现的概率。
 
-那么，如果计算概率值呢？
+那么，如何计算概率值呢？
 
 # 特征工程
 
@@ -70,7 +71,7 @@ disqus: true
 
 然后，计算 *P(game|Sports)*，也就是 *game*在 *Sports*类别中占全部单词的比重 =2/11。
 
-但是，接下来就遇到一个问题：*Close* 没有出现在*Sports*的样本里。*P(close|Sports) = 0。这就给概率计算带来了困扰，对于乘法而言，整个目标概率也会等于0。也可能会使两个比较概率都是0。
+但是，接下来就遇到一个问题：*close* 没有出现在*Sports*的样本里。*P(close|Sports)* = 0。这就给概率计算带来了困扰，对于乘法而言，整个目标概率也会等于0。也可能会使两个目标概率都是0。
 
 我们怎么解决这个问题？拉普拉斯平滑。我们给每个词的词频 +1，所以，不会出现某个词的词频为0。整个训练集，一共包含14个不同的词。所以，*P(game|Sports)* = (2+1) / (11+14)。整个结果变成：
 
