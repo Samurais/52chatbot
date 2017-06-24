@@ -98,3 +98,6 @@ disqus: true
 # 总结
 
 现在也许你已经对朴素贝叶斯有了很好的了解，使用它解决分类问题，这个简单的方法在该领域有很好的表现。如果你打算学习更多有趣的知识，可以继续阅读[机器学习指南](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)和[自然语言处理指南](https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/)。
+
+# 延伸阅读
+[基于朴素贝叶斯的自然语言分类器](http://www.jianshu.com/p/b00c085d704a)
