@@ -4,13 +4,32 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-06-24T09:59:04.982Z</updated>
+  <updated>2017-06-25T11:26:15.642Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>实体命名标识和槽位取值的关系</title>
+      <link href="http://blog.chatbot.io/research/2017/06/25/what-is-the-difference-between-slot-filling-in/"/>
+      <id>http://blog.chatbot.io/research/2017/06/25/what-is-the-difference-between-slot-filling-in/</id>
+      <published>2017-07-24T16:00:00.000Z</published>
+      <updated>2017-07-24T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          在对话系统中，对NLP中的实体命名标识和NLU中的槽位取值，进行介绍。
+        
+      </summary>
+      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
+      
+        <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
+      
+        <category term="nlu" scheme="http://blog.chatbot.io/tags?tag=nlu"/>
+      
+    </entry>
   
     <entry>
       <title>朴素贝叶斯分类器</title>
@@ -26,6 +45,23 @@
       <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
       
         <category term="probability" scheme="http://blog.chatbot.io/tags?tag=probability"/>
+      
+    </entry>
+  
+    <entry>
+      <title>机器学习词汇列表</title>
+      <link href="http://blog.chatbot.io/research/2017/06/24/machine-learning-glossary/"/>
+      <id>http://blog.chatbot.io/research/2017/06/24/machine-learning-glossary/</id>
+      <published>2017-07-23T16:00:00.000Z</published>
+      <updated>2017-07-23T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          入门机器学习的一个很大的困难就是掌握各种概念。本篇对这些概念做一个列表，并且会不断更新。
+        
+      </summary>
+      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
+      
+        <category term="glossary" scheme="http://blog.chatbot.io/tags?tag=glossary"/>
       
     </entry>
   
@@ -57,40 +93,6 @@
       <summary type="html">
         
           Word2Vec完成了从文字，句子到空间向量的映射，是计算相似度和检索常用的方法。在使用机器学习技术训练文本以前，常用来做Word Embedding。
-        
-      </summary>
-      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
-      
-        <category term="program" scheme="http://blog.chatbot.io/tags?tag=program"/>
-      
-    </entry>
-  
-    <entry>
-      <title>最大字串问题</title>
-      <link href="http://blog.chatbot.io/development/2017/06/17/cpp-longest-common-string/"/>
-      <id>http://blog.chatbot.io/development/2017/06/17/cpp-longest-common-string/</id>
-      <published>2017-07-16T16:00:00.000Z</published>
-      <updated>2017-07-16T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          寻找两个字符串中的最大字串问题，是算法中的经典问题，出现在面试和实际应用中，屡见不鲜。本文给出了C++中的实现。
-        
-      </summary>
-      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
-      
-        <category term="program" scheme="http://blog.chatbot.io/tags?tag=program"/>
-      
-    </entry>
-  
-    <entry>
-      <title>C++ 正则表达式用法</title>
-      <link href="http://blog.chatbot.io/development/2017/06/16/cpp-regex/"/>
-      <id>http://blog.chatbot.io/development/2017/06/16/cpp-regex/</id>
-      <published>2017-07-15T16:00:00.000Z</published>
-      <updated>2017-07-15T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          正则表达式作为自然语言处理的最基本的操作，给出C++的使用方案。
         
       </summary>
       <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
