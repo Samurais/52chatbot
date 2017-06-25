@@ -26,3 +26,5 @@ sequence-tagging 是带有目的性的从一段文字中寻找信息。
 
 # Refers
 [What is the difference between slot filling in NLU and named entity recognition in NLP?](https://www.reddit.com/r/LanguageTechnology/comments/45g5hr/what_is_the_difference_between_slot_filling_in/)
+
+[Knowledge Base Population](https://nlp.stanford.edu/projects/kbp/)
