@@ -4,7 +4,7 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-06-26T03:02:36.250Z</updated>
+  <updated>2017-06-26T09:15:36.094Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
@@ -26,6 +26,25 @@
       <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
       
         <category term="probability" scheme="http://blog.chatbot.io/tags?tag=probability"/>
+      
+    </entry>
+  
+    <entry>
+      <title>马尔可夫链</title>
+      <link href="http://blog.chatbot.io/research/2017/06/26/Markov-Chain/"/>
+      <id>http://blog.chatbot.io/research/2017/06/26/Markov-Chain/</id>
+      <published>2017-07-25T16:00:00.000Z</published>
+      <updated>2017-07-25T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          马尔可夫链通常用来建模排队理论和统计学中的建模，还可作为信号模型用于熵编码技术，如算法编码。
+        
+      </summary>
+      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
+      
+        <category term="probability" scheme="http://blog.chatbot.io/tags?tag=probability"/>
+      
+        <category term="algorithm" scheme="http://blog.chatbot.io/tags?tag=algorithm"/>
       
     </entry>
   
@@ -83,23 +102,6 @@
       <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
       
         <category term="probability" scheme="http://blog.chatbot.io/tags?tag=probability"/>
-      
-    </entry>
-  
-    <entry>
-      <title>机器学习词汇列表</title>
-      <link href="http://blog.chatbot.io/research/2017/06/24/machine-learning-glossary/"/>
-      <id>http://blog.chatbot.io/research/2017/06/24/machine-learning-glossary/</id>
-      <published>2017-07-23T16:00:00.000Z</published>
-      <updated>2017-07-23T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          入门机器学习的一个很大的困难就是掌握各种概念。本篇对这些概念做一个列表，并且会不断更新。
-        
-      </summary>
-      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
-      
-        <category term="glossary" scheme="http://blog.chatbot.io/tags?tag=glossary"/>
       
     </entry>
   
