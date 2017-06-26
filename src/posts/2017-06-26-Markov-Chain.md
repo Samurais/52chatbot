@@ -25,12 +25,12 @@ disqus: true
 
 | State | Next(**S1**) | Next(**S2**) | Next(**S3**) | Next(**S4**) | Next(**S5**) | Next(**S6**) |
 | --- | --- | --- | --- | --- | --- | --- | 
-| Current(**S1**) | 1 | 0 | 0 | 0 | 0 | 0 | 
-| Current(**S2**) | 1/4 | 1/2 | 0 | 1/4 | 0 | 0 |
-| Current(**S3**) | 0 | 0 | 0 | 1 | 0 | 0 | 
-| Current(**S4**) | 1/16 | 1/4 | 1/8 | 1/4 | 1/4 | 1/16 | 
-| Current(**S5**) | 0 | 0 | 0 | 1/4 | 1/2 | 1/4 | 
-| Current(**S6**) | 0 | 0 | 0 | 0 | 0 | 1 | 
+| **Current(S1)**&nbsp; | 1 | 0 | 0 | 0 | 0 | 0 | 
+| **Current(S2)**&nbsp; | 1/4 | 1/2 | 0 | 1/4 | 0 | 0 |
+| **Current(S3)**&nbsp; | 0 | 0 | 0 | 1 | 0 | 0 | 
+| **Current(S4)**&nbsp; | 1/16 | 1/4 | 1/8 | 1/4 | 1/4 | 1/16 | 
+| **Current(S5)**&nbsp; | 0 | 0 | 0 | 1/4 | 1/2 | 1/4 | 
+| **Current(S6)**&nbsp; | 0 | 0 | 0 | 0 | 0 | 1 | 
 
 上图中，每一行代表的是当前状态的一下一步转移到不同状态的概率。注意一个含有M个状态的一阶过程有M的平方个状态转移。
 
@@ -114,4 +114,5 @@ result = v * P**step
 
 # Refers
 [隐马尔可夫模型（HMM）攻略](http://blog.csdn.net/likelet/article/details/7056068)
+
 [Python Markov Chain Packages](https://martin-thoma.com/python-markov-chain-packages/)
