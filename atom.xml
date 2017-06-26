@@ -4,13 +4,30 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-06-25T11:53:59.669Z</updated>
+  <updated>2017-06-26T02:57:09.856Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>Freebase简介</title>
+      <link href="http://blog.chatbot.io/research/2017/06/26/freebase-introduction/"/>
+      <id>http://blog.chatbot.io/research/2017/06/26/freebase-introduction/</id>
+      <published>2017-07-25T16:00:00.000Z</published>
+      <updated>2017-07-25T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          Freebase是一个巨大的，免费的事实数据库，组织成三元组的形式。Freebase的实体和关系都有类别，并且类别和关系的词典类似。每个实体有一个内部的id和一些可选的名字集来在文本中引用该实体。
+        
+      </summary>
+      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
+      
+        <category term="probability" scheme="http://blog.chatbot.io/tags?tag=probability"/>
+      
+    </entry>
   
     <entry>
       <title>实体命名标识和槽位取值的关系</title>
@@ -83,25 +100,6 @@
       <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
       
         <category term="glossary" scheme="http://blog.chatbot.io/tags?tag=glossary"/>
-      
-    </entry>
-  
-    <entry>
-      <title>IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models</title>
-      <link href="http://blog.chatbot.io/research/2017/06/22/1705.10513-IRGAN:%20A%20Minimax%20Game%20for%20Unifying%20Generative%20and%20Discriminative%20Information%20Retrieve/"/>
-      <id>http://blog.chatbot.io/research/2017/06/22/1705.10513-IRGAN:%20A%20Minimax%20Game%20for%20Unifying%20Generative%20and%20Discriminative%20Information%20Retrieve/</id>
-      <published>2017-07-21T16:00:00.000Z</published>
-      <updated>2017-07-21T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          IRGAN for information retrieval, recommend system, QA, and ranking. The generative retrieval focusing on predicting relevant documents given a query, and the discriminative retrieval focusing on predicting relevancy given a query-document pair. 
-        
-      </summary>
-      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
-      
-        <category term="IRGAN" scheme="http://blog.chatbot.io/tags?tag=IRGAN"/>
-      
-        <category term="ranking" scheme="http://blog.chatbot.io/tags?tag=ranking"/>
       
     </entry>
   
