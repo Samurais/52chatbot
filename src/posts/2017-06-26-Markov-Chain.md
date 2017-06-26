@@ -107,7 +107,7 @@ python markov_chain_example.py
 result = v * P**step
 ```
 
-其中，**P\**N**是对**状态转移矩阵P**[取**N次方**(numpy.linalg.matrix_power)](https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.matrix_power.html)。
+其中，**P\*\*N**是对**状态转移矩阵P** [取**N次方**(numpy.linalg.matrix_power)](https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.matrix_power.html)。
 
 ### 为什么状态转移矩阵的列求和不为1
 首先，当前状态为不同状态时，并不能保证下一状态都转移到**S1**或者某一特定的状态，因此，每列的和应该是**0~状态的数量**。
