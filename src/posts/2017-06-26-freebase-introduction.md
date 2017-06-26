@@ -111,7 +111,7 @@ https://www.w3.org/TR/2004/REC-rdf-testcases-20040210/#ntriples
 
 它的结构如下：
 
-<subject>TAB<predict>TAB<object>TAB .\n
+\<subject>TAB\<predict>TAB\<object>TAB .\n
 
 因为解压出来文件体积大，使用[脚本:zmore, zgrep, zcat, etc.](https://github.com/nchah/freebase-triples#scripts)访问更方便。
 
@@ -122,3 +122,9 @@ zgrep "people" data/freebase-rdf-latest.zh.gz
 
 ### 数据网盘地址
 链接: https://pan.baidu.com/s/1hs45j9M 密码: sgdh
+
+* [Freebase ppt](https://pan.baidu.com/s/1hsoWlKS)
+
+* freebase-rdf-latest.zh.gz - 中文三元组
+
+* fb2w.nt.gz 到 wikidata的映射关系
