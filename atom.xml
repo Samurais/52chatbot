@@ -4,13 +4,32 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-06-26T09:24:58.002Z</updated>
+  <updated>2017-06-27T07:44:48.781Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>隐马尔科夫模型</title>
+      <link href="http://blog.chatbot.io/research/2017/06/26/hmm-in-action/"/>
+      <id>http://blog.chatbot.io/research/2017/06/26/hmm-in-action/</id>
+      <published>2017-07-25T16:00:00.000Z</published>
+      <updated>2017-07-25T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          隐马尔可夫模型（Hidden Markov Model，HMM）是统计模型，它用来描述一个含有隐含未知参数的马尔可夫过程。其难点是从可观察的参数中确定该过程的隐含参数。然后利用这些参数来作进一步的分析，例如模式识别。
+        
+      </summary>
+      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
+      
+        <category term="probability" scheme="http://blog.chatbot.io/tags?tag=probability"/>
+      
+        <category term="algorithm" scheme="http://blog.chatbot.io/tags?tag=algorithm"/>
+      
+    </entry>
   
     <entry>
       <title>Freebase简介</title>
@@ -85,23 +104,6 @@
         <category term="nlu" scheme="http://blog.chatbot.io/tags?tag=nlu"/>
       
         <category term="qna" scheme="http://blog.chatbot.io/tags?tag=qna"/>
-      
-    </entry>
-  
-    <entry>
-      <title>朴素贝叶斯分类器</title>
-      <link href="http://blog.chatbot.io/research/2017/06/24/practical-naive-bayes-classifier/"/>
-      <id>http://blog.chatbot.io/research/2017/06/24/practical-naive-bayes-classifier/</id>
-      <published>2017-07-23T16:00:00.000Z</published>
-      <updated>2017-07-23T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          在概率论中，贝叶斯公式是著名的定理。在机器学习里，有着广泛应用，尤其是语言类问题。本篇以简单和朴实的语言介绍这个定理及其应用。
-        
-      </summary>
-      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
-      
-        <category term="probability" scheme="http://blog.chatbot.io/tags?tag=probability"/>
       
     </entry>
   
