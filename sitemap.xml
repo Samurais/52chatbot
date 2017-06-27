@@ -166,7 +166,11 @@
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/06/26/hmm-in-action/</loc>
+    <loc>http://blog.chatbot.io/research/2017/06/26/hmm-viterbi/</loc>
+  </url>
+
+  <url>
+    <loc>http://blog.chatbot.io/research/2017/06/27/hmm-baum-welch-backward-forward/</loc>
   </url>
 
 </urlset>
