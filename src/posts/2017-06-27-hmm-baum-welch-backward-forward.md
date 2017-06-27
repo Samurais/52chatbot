@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "隐马尔科夫模型"
+title: "隐马尔科夫模型和Baum-Welch算法"
 excerpt: "隐马尔可夫模型（Hidden Markov Model，HMM）是统计模型，它用来描述一个含有隐含未知参数的马尔可夫过程。其难点是从可观察的参数中确定该过程的隐含参数。然后利用这些参数来作进一步的分析，例如模式识别。"
 category: research
 tags: [probability, algorithm]
@@ -407,8 +407,6 @@ print(p / len(states_data))
 
 [Bilmes98]	Jeff A. Bilmes, “A gentle tutorial of the EM algorithm and its application to parameter estimation for Gaussian mixture and hidden Markov models.”, 1998.
 
+[维特比算法](https://zh.wikipedia.org/wiki/%E7%BB%B4%E7%89%B9%E6%AF%94%E7%AE%97%E6%B3%95)
+
 [隐马尔可夫模型（HMM）攻略](http://blog.csdn.net/likelet/article/details/7056068)
-
-
-
-
