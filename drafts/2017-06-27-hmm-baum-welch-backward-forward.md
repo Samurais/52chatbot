@@ -407,6 +407,8 @@ print(p / len(states_data))
 
 [Bilmes98]	Jeff A. Bilmes, “A gentle tutorial of the EM algorithm and its application to parameter estimation for Gaussian mixture and hidden Markov models.”, 1998.
 
-[维特比算法](https://zh.wikipedia.org/wiki/%E7%BB%B4%E7%89%B9%E6%AF%94%E7%AE%97%E6%B3%95)
+[HMM的Baum-Welch算法和Viterbi算法公式推导细节(http://blog.csdn.net/xmu_jupiter/article/details/50965039)
 
-[隐马尔可夫模型（HMM）攻略](http://blog.csdn.net/likelet/article/details/7056068)
+[隐马尔科夫模型HMM的前向算法和后向算法](http://blog.csdn.net/xmu_jupiter/article/details/50956389)
+
+[ 隐马尔可夫(HMM)、前/后向算法、Viterbi算法](http://blog.csdn.net/xueyingxue001/article/details/52396494)
