@@ -4,32 +4,13 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-06-27T15:43:17.879Z</updated>
+  <updated>2017-07-23T05:56:07.244Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
-  
-    <entry>
-      <title>隐马尔科夫模型和Baum-Welch算法</title>
-      <link href="http://blog.chatbot.io/research/2017/06/27/hmm-baum-welch-backward-forward/"/>
-      <id>http://blog.chatbot.io/research/2017/06/27/hmm-baum-welch-backward-forward/</id>
-      <published>2017-07-26T16:00:00.000Z</published>
-      <updated>2017-07-26T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          隐马尔可夫模型（Hidden Markov Model，HMM）是统计模型，它用来描述一个含有隐含未知参数的马尔可夫过程。其难点是从可观察的参数中确定该过程的隐含参数。然后利用这些参数来作进一步的分析，例如模式识别。
-        
-      </summary>
-      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
-      
-        <category term="probability" scheme="http://blog.chatbot.io/tags?tag=probability"/>
-      
-        <category term="algorithm" scheme="http://blog.chatbot.io/tags?tag=algorithm"/>
-      
-    </entry>
   
     <entry>
       <title>隐马尔科夫模型和维特比算法</title>
@@ -102,6 +83,27 @@
         <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
       
         <category term="nlu" scheme="http://blog.chatbot.io/tags?tag=nlu"/>
+      
+    </entry>
+  
+    <entry>
+      <title>Deep learning for NLP</title>
+      <link href="http://blog.chatbot.io/research/2017/06/25/Deeplearning-for-natural-language-processing/"/>
+      <id>http://blog.chatbot.io/research/2017/06/25/Deeplearning-for-natural-language-processing/</id>
+      <published>2017-07-24T16:00:00.000Z</published>
+      <updated>2017-07-24T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          近两年的优秀论文
+        
+      </summary>
+      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
+      
+        <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
+      
+        <category term="nlu" scheme="http://blog.chatbot.io/tags?tag=nlu"/>
+      
+        <category term="qna" scheme="http://blog.chatbot.io/tags?tag=qna"/>
       
     </entry>
   
