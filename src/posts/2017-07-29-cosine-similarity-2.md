@@ -48,7 +48,7 @@ $W2V_CMD -train $DATA \
 
 ## 怎么通过其获得两个句子的相似度呢？
 
-```
+```python
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #===============================================================================
@@ -107,27 +107,27 @@ def similarity_distance(sentence1, sentence2, V):
     compute cosine similarity of v1 to v2:
         (v1 dot v2)/{||v1||*||v2||)
     '''
-    sentence1_vectors = []
-    sentence2_vectors = []
 
-    def _vector(sentence, vectors):
+    def _vector(sentence):
+        vectors = []
         for x,y in enumerate(sentence.split()):
             try:
-                v =  V.wv[y.decode('utf-8')]
-                vectors.append(v)
+                y = y.decode('utf-8', errors='ignore').strip()
+                if y: # discard word if empty
+                    v =  V.wv[y]
+                    vectors.append(v)
             except KeyError, error:
                 # define W2V_DIM_SZIE in environment
                 vectors.append(np.zeros(W2V_DIM_SZIE, dtype=float))
 
-    _vector(sentence1, sentence1_vectors)
-    _vector(sentence2, sentence2_vectors)
+        return vectors
 
     # todo, compute OOV words
     # print("v1", sentence1_vectors)
     # print("v2", sentence2_vectors)
 
-    a = sim_molecule(sentence1_vectors)
-    b = sim_molecule(sentence2_vectors)
+    a = sim_molecule(_vector(sentence1))
+    b = sim_molecule(_vector(sentence2))
     A = sim_denominator(a)
     B = sim_denominator(b)
 
