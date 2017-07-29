@@ -132,7 +132,7 @@ def similarity_distance(sentence1, sentence2, V):
     B = sim_denominator(b)
 
     similarity = np.dot(a, b) / (A * B)
-    return similarity
+    return float("%.3f" % similarity)
 
 def test():
     txts = ["登录 不 上去 怎么办 ", "扫码 一直 不 能 成功 怎么办"]
