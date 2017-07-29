@@ -4,13 +4,30 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-07-23T05:56:07.244Z</updated>
+  <updated>2017-07-29T09:32:05.543Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>余弦相似性 2</title>
+      <link href="http://blog.chatbot.io/development/2017/07/29/cosine-similarity-2/"/>
+      <id>http://blog.chatbot.io/development/2017/07/29/cosine-similarity-2/</id>
+      <published>2017-08-28T16:00:00.000Z</published>
+      <updated>2017-08-28T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          判断两个文章或者句子相似程度的一个算法。根据向量坐标，绘制在空间中，求得夹角的Cos值。Cos值越接近1，则说明夹角越小，即两向量相似。
+        
+      </summary>
+      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      
+        <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
+      
+    </entry>
   
     <entry>
       <title>隐马尔科夫模型和维特比算法</title>
@@ -83,27 +100,6 @@
         <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
       
         <category term="nlu" scheme="http://blog.chatbot.io/tags?tag=nlu"/>
-      
-    </entry>
-  
-    <entry>
-      <title>Deep learning for NLP</title>
-      <link href="http://blog.chatbot.io/research/2017/06/25/Deeplearning-for-natural-language-processing/"/>
-      <id>http://blog.chatbot.io/research/2017/06/25/Deeplearning-for-natural-language-processing/</id>
-      <published>2017-07-24T16:00:00.000Z</published>
-      <updated>2017-07-24T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          近两年的优秀论文
-        
-      </summary>
-      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
-      
-        <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
-      
-        <category term="nlu" scheme="http://blog.chatbot.io/tags?tag=nlu"/>
-      
-        <category term="qna" scheme="http://blog.chatbot.io/tags?tag=qna"/>
       
     </entry>
   
