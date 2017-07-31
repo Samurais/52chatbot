@@ -105,6 +105,42 @@ $HADOOP_HOME/sbin/mr-jobhistory-daemon.sh --config $HADOOP_CONF_DIR start histor
 
 ![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/07/hadoop3.png)
 
+## Streaming 
+
+Hadoop Stream允许我们使用任何可执行的脚本处理按行组织的数据流，数据取自Unix的标准输入STDIN，并输出到标准输出到STDOUT。
+
+### Example
+http://www.cnblogs.com/dandingyy/archive/2013/03/01/2938442.html
+
+Download data
+```
+wget http://www.nber.org/patents/Cite75_99.zip -O data/Cite75_99.zip
+```
+
+Python Streaming, RandomSample.py
+
+```python
+#!/usr/bin/env python
+import sys, random
+
+for line in sys.stdin:
+    if random.randint(1, 100) <= int(sys.argv[1]):
+        print line.strip()
+```
+
+Submit Job
+
+```
+bin/hadoop jar share/hadoop/tools/lib/hadoop-streaming-2.8.1.jar \
+        -input data/cite75_99.txt \
+        -output cite75_99_sample \
+        -mapper 'RandomSample.py 10' \
+        -file RandomSample.py \
+        -D mapred.reduce.tasks=1
+```
+
+By default, using IdentityReducer, after job is finished, use ```getmerge``` to get final result.
+
 ## Breaking changes
 
 ### TaskTracker and JobTracker are replaced.
