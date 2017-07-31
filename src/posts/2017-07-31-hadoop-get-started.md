@@ -62,6 +62,8 @@ hadoop/etc/hadoop/hdfs-site.xml
 ## Start
 
 ```
+$HADOOP_HOME/bin/hdfs namenode -format
+$HADOOP_HOME/bin/hdfs getconf -namenodes
 $HADOOP_HOME/sbin/start-all.sh
 ```
 
