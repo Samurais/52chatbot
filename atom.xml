@@ -4,13 +4,30 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-07-29T10:04:52.350Z</updated>
+  <updated>2017-07-31T07:04:01.066Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>Hadoop快速开始</title>
+      <link href="http://blog.chatbot.io/development/2017/08/31/hadoop-get-started/"/>
+      <id>http://blog.chatbot.io/development/2017/08/31/hadoop-get-started/</id>
+      <published>2017-09-30T16:00:00.000Z</published>
+      <updated>2017-09-30T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          Hadoop实现了一个分布式文件系统（Hadoop Distributed File System），简称HDFS。Hadoop的框架最核心的设计就是：HDFS和MapReduce。HDFS为海量的数据提供了存储，则MapReduce为海量的数据提供了计算。
+        
+      </summary>
+      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      
+        <category term="bigdata" scheme="http://blog.chatbot.io/tags?tag=bigdata"/>
+      
+    </entry>
   
     <entry>
       <title>余弦相似性 2</title>
@@ -81,25 +98,6 @@
         <category term="probability" scheme="http://blog.chatbot.io/tags?tag=probability"/>
       
         <category term="algorithm" scheme="http://blog.chatbot.io/tags?tag=algorithm"/>
-      
-    </entry>
-  
-    <entry>
-      <title>实体命名标识和槽位取值的关系</title>
-      <link href="http://blog.chatbot.io/research/2017/06/25/what-is-the-difference-between-slot-filling-in/"/>
-      <id>http://blog.chatbot.io/research/2017/06/25/what-is-the-difference-between-slot-filling-in/</id>
-      <published>2017-07-24T16:00:00.000Z</published>
-      <updated>2017-07-24T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          在对话系统中，对NLP中的实体命名标识和NLU中的槽位取值，进行介绍。
-        
-      </summary>
-      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
-      
-        <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
-      
-        <category term="nlu" scheme="http://blog.chatbot.io/tags?tag=nlu"/>
       
     </entry>
   
