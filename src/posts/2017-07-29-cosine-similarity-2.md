@@ -46,6 +46,13 @@ $W2V_CMD -train $DATA \
     -threads 20
 ```
 
+## Graph Visual of Words
+Word2Vec + Principal Component Analysis + Clustering for low-dimensional semantic representation of a set of words or compositional MWEs.
+
+```
+https://github.com/Samurais/visual-word2vec
+```
+
 ## 怎么通过其获得两个句子的相似度呢？
 
 ```python

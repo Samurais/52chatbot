@@ -7,17 +7,15 @@ tags: [bigdata]
 disqus: true
 ---
 
-
-## Version
-
-2.8.1
-
 ## Download
 
 ```
 wget https://mirrors.tuna.tsinghua.edu.cn/apache/hadoop/core/hadoop-2.8.1/hadoop-2.8.1.tar.gz
 ```
 
+## Github
+Version / 2.8.1
+[hadoop-getstarted](https://github.com/Samurais/hadoop-getstarted)
 
 ## Env
 
@@ -110,6 +108,7 @@ $HADOOP_HOME/sbin/mr-jobhistory-daemon.sh --config $HADOOP_CONF_DIR start histor
 ## Streaming 
 
 Hadoop Stream允许我们使用任何可执行的脚本处理按行组织的数据流，数据取自Unix的标准输入STDIN，并输出到标准输出到STDOUT。
+https://hadoop.apache.org/docs/r2.7.3/hadoop-streaming/HadoopStreaming.html
 
 ### Example
 http://www.cnblogs.com/dandingyy/archive/2013/03/01/2938442.html
