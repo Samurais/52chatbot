@@ -4,13 +4,32 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-08-01T11:15:47.154Z</updated>
+  <updated>2017-08-01T11:50:00.422Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>Numpy Get started</title>
+      <link href="http://blog.chatbot.io/development/2017/08/01/numpy-interfaces/"/>
+      <id>http://blog.chatbot.io/development/2017/08/01/numpy-interfaces/</id>
+      <published>2017-08-31T16:00:00.000Z</published>
+      <updated>2017-08-31T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          Numpy是Python的一个科学计算的库，提供了矩阵运算的功能，其一般与Scipy、matplotlib一起使用。其实，list已经提供了类似于矩阵的表示形式，不过numpy为我们提供了更多的函数。
+        
+      </summary>
+      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      
+        <category term="deeplearning" scheme="http://blog.chatbot.io/tags?tag=deeplearning"/>
+      
+        <category term="utilities" scheme="http://blog.chatbot.io/tags?tag=utilities"/>
+      
+    </entry>
   
     <entry>
       <title>Hadoop快速开始</title>
@@ -79,25 +98,6 @@
       <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
       
         <category term="probability" scheme="http://blog.chatbot.io/tags?tag=probability"/>
-      
-    </entry>
-  
-    <entry>
-      <title>马尔可夫链</title>
-      <link href="http://blog.chatbot.io/research/2017/06/26/Markov-Chain/"/>
-      <id>http://blog.chatbot.io/research/2017/06/26/Markov-Chain/</id>
-      <published>2017-07-25T16:00:00.000Z</published>
-      <updated>2017-07-25T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          马尔可夫链通常用来建模排队理论和统计学中的建模，还可作为信号模型用于熵编码技术，如算法编码。
-        
-      </summary>
-      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
-      
-        <category term="probability" scheme="http://blog.chatbot.io/tags?tag=probability"/>
-      
-        <category term="algorithm" scheme="http://blog.chatbot.io/tags?tag=algorithm"/>
       
     </entry>
   
