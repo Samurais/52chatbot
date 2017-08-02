@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "余弦相似性 2"
+title: "Word2Vec（三） - 模型训练和计算余弦距离"
 excerpt: "判断两个文章或者句子相似程度的一个算法。根据向量坐标，绘制在空间中，求得夹角的Cos值。Cos值越接近1，则说明夹角越小，即两向量相似。"
 category: development
 tags: [nlp]
@@ -16,7 +16,7 @@ disqus: true
 ![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/06/bg2013032007.png)
 
 
-在上一篇文章中，给出了相似性计算的原理，如果模型通过[word2vec](https://code.google.com/archive/p/word2vec)训练好了```bin```格式的文件。
+在[上一篇文章](http://samurais.github.io/development/2017/06/17/word2vec/)中，给出了使用gensim的方法，如果模型通过[word2vec](https://code.google.com/archive/p/word2vec)训练好了```bin```格式的文件。
 
 ```
 #! /bin/bash 

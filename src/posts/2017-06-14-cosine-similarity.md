@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "余弦相似性"
+title: "Word2Vec(一) - 余弦相似性数学原理"
 excerpt: "判断两个文章或者句子相似程度的一个算法。根据向量坐标，绘制在空间中，求得夹角的Cos值。Cos值越接近1，则说明夹角越小，即两向量相似。"
 category: development
 tags: [nlp]
