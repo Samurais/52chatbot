@@ -4,7 +4,7 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2017-08-02T01:56:36.265Z</updated>
+  <updated>2017-08-02T02:05:53.529Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
@@ -49,7 +49,7 @@
     </entry>
   
     <entry>
-      <title>余弦相似性 2</title>
+      <title>Word2Vec（三） - 模型训练和计算余弦距离</title>
       <link href="http://blog.chatbot.io/development/2017/07/29/cosine-similarity-2/"/>
       <id>http://blog.chatbot.io/development/2017/07/29/cosine-similarity-2/</id>
       <published>2017-08-28T16:00:00.000Z</published>
