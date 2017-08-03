@@ -228,12 +228,14 @@ NumPy 中有许多和数值计算相关的函数, 这些函数与 math module �
 * `np.exp`: 计算 e 的指数, `e ** x`, e 约等于 2.718281828，还称为欧拉数。 [指数函数介绍](https://baike.baidu.com/item/%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0/6013301?fr=aladdin)
 
 ![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/08/numpy-e-1.jpg)
+[动态图](http://alturl.com/pehkt)
 
 * `np.sqrt`: 计算平方根, `x ** 0.5`.
 * `np.square`: 计算平方, `x ** 2`.
 * `np.log`, `np.log10`, `np.log2`, `np.log1p`: 分别为以 e, 10, 2 为底取 log, 和 `log(1 + x)`. [对数函数](http://www.baike.com/wiki/%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0)
 
 ![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/08/numpy-e-2.jpg)
+[动态图](http://alturl.com/uimb8)
 
 * `np.sign`: 取数值的正负号.
 * `np.ceil`: 计算比每一个元素大或相等的最小的整数.
