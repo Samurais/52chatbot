@@ -479,5 +479,6 @@ https://github.com/Samurais/maximum-likelihood-estimation
 [Likelihood & LogLikelihood](https://onlinecourses.science.psu.edu/stat504/node/27)
 
 [Maximum likelihood linear regression tensorflow
-
 ](https://stackoverflow.com/questions/41885665/maximum-likelihood-linear-regression-tensorflow)
+
+[What is the difference between “likelihood” and “probability”?](https://stats.stackexchange.com/questions/2641/what-is-the-difference-between-likelihood-and-probability)
