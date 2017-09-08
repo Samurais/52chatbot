@@ -46,7 +46,7 @@ router.map({
   }
 })
 router.redirect({
-  '/': '/home'
+  '/': '/archives'
 })
 
 router.start(Vue.extend({}), '#app')

@@ -4,11 +4,11 @@
       <a class="toc item">
         <i class="sidebar icon" @click="toggle"></i>
       </a>
-      <a class="item" v-link="{path: '/home'}">Home</a>
       <a class="item" v-link="{path: '/archives'}">Archives</a>
       <a class="item" v-link="{path: '/categories'}">Categories</a>
       <a class="item" v-link="{path: '/videos'}">Videos</a>
       <a class="item" v-link="{path: '/tags'}">Tags</a>
+      <a class="item" v-link="{path: '/home'}">Intro</a>
       <a class="item" href="/atom.xml">RSS</a>
       <a class="item" href="http://blog.chatbot.io/webcv/" target="_blank">About me</a>
     </div>
