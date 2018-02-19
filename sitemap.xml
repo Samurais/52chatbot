@@ -30,11 +30,19 @@
   </url>
 
   <url>
+    <loc>http://blog.chatbot.io/thoughts/2016/12/04/chatbot-trends/</loc>
+  </url>
+
+  <url>
     <loc>http://blog.chatbot.io/development/2016/12/07/distributed-tensorflow-example/</loc>
   </url>
 
   <url>
     <loc>http://blog.chatbot.io/research/2016/12/12/items-and-model-understanding-in-tensorflow/</loc>
+  </url>
+
+  <url>
+    <loc>http://blog.chatbot.io/thoughts/2016/12/17/chatbot-stops-here/</loc>
   </url>
 
   <url>
@@ -83,6 +91,10 @@
 
   <url>
     <loc>http://blog.chatbot.io/research/2017/03/03/1701.06547-Adversarial%20Learning%20for%20Neural%20Dialogue%20Generation/</loc>
+  </url>
+
+  <url>
+    <loc>http://blog.chatbot.io/thoughts/2017/03/16/dont-stop-by-criticize/</loc>
   </url>
 
   <url>
