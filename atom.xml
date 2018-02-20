@@ -4,13 +4,32 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2018-02-20T03:21:45.982Z</updated>
+  <updated>2018-02-20T03:38:51.792Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>Synonyms: 中文近义词工具包</title>
+      <link href="http://blog.chatbot.io/development/2018/02/20/synonyms-1/"/>
+      <id>http://blog.chatbot.io/development/2018/02/20/synonyms-1/</id>
+      <published>2018-03-19T16:00:00.000Z</published>
+      <updated>2018-03-19T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          最好的中文近义词工具包。
+        
+      </summary>
+      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      
+        <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
+      
+        <category term="synonyms" scheme="http://blog.chatbot.io/tags?tag=synonyms"/>
+      
+    </entry>
   
     <entry>
       <title>机器学习保险行业问答开放数据集</title>
@@ -83,23 +102,6 @@
         <category term="deeplearning" scheme="http://blog.chatbot.io/tags?tag=deeplearning"/>
       
         <category term="utilities" scheme="http://blog.chatbot.io/tags?tag=utilities"/>
-      
-    </entry>
-  
-    <entry>
-      <title>Hadoop快速开始</title>
-      <link href="http://blog.chatbot.io/development/2017/07/31/hadoop-get-started/"/>
-      <id>http://blog.chatbot.io/development/2017/07/31/hadoop-get-started/</id>
-      <published>2017-08-30T16:00:00.000Z</published>
-      <updated>2017-08-30T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          Hadoop实现了一个分布式文件系统（Hadoop Distributed File System），简称HDFS。Hadoop的框架最核心的设计就是：HDFS和MapReduce。HDFS为海量的数据提供了存储，则MapReduce为海量的数据提供了计算。
-        
-      </summary>
-      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
-      
-        <category term="bigdata" scheme="http://blog.chatbot.io/tags?tag=bigdata"/>
       
     </entry>
   
