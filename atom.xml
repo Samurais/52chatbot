@@ -4,13 +4,30 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2018-02-20T04:00:49.469Z</updated>
+  <updated>2018-02-23T15:16:04.310Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>聊天机器人 2019</title>
+      <link href="http://blog.chatbot.io/thoughts/2018/02/23/chatbot-trends/"/>
+      <id>http://blog.chatbot.io/thoughts/2018/02/23/chatbot-trends/</id>
+      <published>2018-03-22T16:00:00.000Z</published>
+      <updated>2018-03-22T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          关于聊天机器人未来的思考
+        
+      </summary>
+      <category term="thoughts" scheme="http://blog.chatbot.io/categories?category=thoughts"/>
+      
+        <category term="thoughts" scheme="http://blog.chatbot.io/tags?tag=thoughts"/>
+      
+    </entry>
   
     <entry>
       <title>Synonyms: 中文近义词工具包</title>
@@ -83,25 +100,6 @@
       <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
       
         <category term="algorithm" scheme="http://blog.chatbot.io/tags?tag=algorithm"/>
-      
-    </entry>
-  
-    <entry>
-      <title>Numpy Get started - random</title>
-      <link href="http://blog.chatbot.io/development/2017/08/01/numpy-interfaces/"/>
-      <id>http://blog.chatbot.io/development/2017/08/01/numpy-interfaces/</id>
-      <published>2017-08-31T16:00:00.000Z</published>
-      <updated>2017-08-31T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          Numpy是Python的一个科学计算的库，提供了矩阵运算的功能，其一般与Scipy、matplotlib一起使用。其实，list已经提供了类似于矩阵的表示形式，不过numpy为我们提供了更多的函数。
-        
-      </summary>
-      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
-      
-        <category term="deeplearning" scheme="http://blog.chatbot.io/tags?tag=deeplearning"/>
-      
-        <category term="utilities" scheme="http://blog.chatbot.io/tags?tag=utilities"/>
       
     </entry>
   
