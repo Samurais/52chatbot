@@ -4,13 +4,30 @@
   <subtitle>Noble is not born, but trained.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.chatbot.io"/>
-  <updated>2018-02-23T15:34:16.551Z</updated>
+  <updated>2018-03-03T03:32:51.471Z</updated>
   <id>http://blog.chatbot.io</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://blog.chatbot.io">blog-next</generator>
+  
+    <entry>
+      <title>深度学习：调节网络超参数</title>
+      <link href="http://blog.chatbot.io/development/2018/03/03/fitting-hyper-params/"/>
+      <id>http://blog.chatbot.io/development/2018/03/03/fitting-hyper-params/</id>
+      <published>2018-04-02T16:00:00.000Z</published>
+      <updated>2018-04-02T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          在训练前，需要先规划超级参数，比如batch size, etc.
+        
+      </summary>
+      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      
+        <category term="deeplearning" scheme="http://blog.chatbot.io/tags?tag=deeplearning"/>
+      
+    </entry>
   
     <entry>
       <title>聊天机器人 2019</title>
@@ -83,23 +100,6 @@
         <category term="deeplearning" scheme="http://blog.chatbot.io/tags?tag=deeplearning"/>
       
         <category term="utilities" scheme="http://blog.chatbot.io/tags?tag=utilities"/>
-      
-    </entry>
-  
-    <entry>
-      <title>最大似然估计</title>
-      <link href="http://blog.chatbot.io/research/2017/08/03/maximum-likelihood-estimation/"/>
-      <id>http://blog.chatbot.io/research/2017/08/03/maximum-likelihood-estimation/</id>
-      <published>2017-09-02T16:00:00.000Z</published>
-      <updated>2017-09-02T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          最大似然估计提供了一种给定观察数据来评估模型参数的方法，即：“模型已定，参数未知”。
-        
-      </summary>
-      <category term="research" scheme="http://blog.chatbot.io/categories?category=research"/>
-      
-        <category term="algorithm" scheme="http://blog.chatbot.io/tags?tag=algorithm"/>
       
     </entry>
   
