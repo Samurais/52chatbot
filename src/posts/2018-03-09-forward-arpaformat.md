@@ -7,6 +7,9 @@ tags: [nlp]
 disqus: true
 ---
 
+From: https://cmusphinx.github.io/wiki/arpaformat/
+Source: [Wiki](https://github.com/cmusphinx/cmusphinx.github.io/blob/master/wiki/arpaformat.md)
+
 Statistical language describe probabilities of the texts, they are trained on
 large corpora of text data. They can be stored in various text and binary
 format, but the common format supported by language modeling toolkits is a text
