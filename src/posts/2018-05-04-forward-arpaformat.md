@@ -43,7 +43,7 @@ ls _dynet.so
 链接错误的就是这个文件，修改方法
 
 ```
-nstall_name_tool -change \
+install_name_tool -change \
   /private/var/folders/m8/qbdvflrd3312_r3sxyc19k9r0000gn/T/pip-build-4cqyj4/dynet/build/py2.7-64bit/dynet/libdynet.dylib \
   /Users/hain/venv-py2/lib/python2.7/site-packages/libdynet.dylib _dynet.so
 ```
@@ -68,4 +68,9 @@ python examples/xor/xor.py
 ('FF', -1.0)
 ('TT', -1.0)
 ('FT', 1.0)
+```
+
+也可以使用docker
+```
+https://hub.docker.com/r/yujioshima/dynet/
 ```
