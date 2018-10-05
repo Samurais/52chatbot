@@ -100,6 +100,9 @@ npm start
 
 
 # references
+
+[mstechsummit-workshop](https://github.com/Samurais/mstechsummit-workshop)
+
 [Create a bot with the Bot Builder SDK for JavaScript](https://docs.microsoft.com/en-us/azure/bot-service/javascript/bot-builder-javascript-quickstart?view=azure-bot-service-4.0)
 
 # troubles
