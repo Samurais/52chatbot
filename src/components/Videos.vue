@@ -1,17 +1,17 @@
 <template>
   <div class="videos">
-    <h1 class="ui teal huge header">Chatbot Master</h1>
-    <h2 class="ui grey small header">Noble is not born, but trained.</h2>
+    <h1 class="ui teal huge header">Chatopera Engineering</h1>
+    <h2 class="ui grey small header">Chatbot Service for Enterprise.</h2>
         <div class="ui cards">
             <div class="ui card">
-              <h4>SuperScript: A dialog system and bot engine</h4> 
+              <h4>SuperScript: A dialog system and bot engine</h4>
               <iframe class="social-videos" frameborder="0" height="249" src="https://v.qq.com/iframe/player.html?vid=u0392y7e4xo&tiny=0&auto=0"
                 allowfullscreen></iframe>
                 <p><a href="http://www.leiphone.com/news/201704/JvBW78wfyvcfB4xW.html" target="_blank">@Leiphone Talk</a> / Apr. 7, 2017</p>
             </div>
 
             <div class="ui card">
-              <h4>Get started with DeepLearning and TensorFlow</h4> 
+              <h4>Get started with DeepLearning and TensorFlow</h4>
               <iframe class="social-videos"  frameborder="0" height="249" src="https://v.qq.com/iframe/player.html?vid=u0380c9l3qg&tiny=0&auto=0"
                 allowfullscreen></iframe>
               <p><a href="https://github.com/rockq-org/chatbot-master-core" target="_blank">@Chatbot Master</a>  / Feb. 26, 2017</p>
@@ -19,7 +19,7 @@
 
 
             <div class="ui card">
-              <h4>Artificial Intelligence and Chatbot&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </h4> 
+              <h4>Artificial Intelligence and Chatbot&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </h4>
               <iframe class="social-videos"  frameborder="0" width="280" height="249" src="http://v.qq.com/iframe/player.html?vid=v0318almc1k&tiny=0&auto=0" allowfullscreen></iframe>
               <p><a href="https://github.com/rockq-org/node-party" target="_blank">@NodeParty</a> / Jul. 23, 2016</p>
             </div>

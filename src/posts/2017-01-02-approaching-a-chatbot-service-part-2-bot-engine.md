@@ -7,9 +7,9 @@ tags: [thoughts]
 disqus: true
 ---
 
->  声明：请尊重原创，转载注明来源网站[Chatbot Master](http://blog.chatbot.io)
+>  声明：请尊重原创，转载注明来源网站[Chatopera Engineering](http://eng.chatopera.com)
 
-在[上一篇文章](http://blog.chatbot.io/development/2017/01/01/approaching-a-chatbot-service-part-1/)中，介绍了聊天机器人目前的发展。本篇主要介绍基于规则的，检索的聊天机器人引擎 - Bot Engine.
+在[上一篇文章](http://eng.chatopera.com/development/2017/01/01/approaching-a-chatbot-service-part-1/)中，介绍了聊天机器人目前的发展。本篇主要介绍基于规则的，检索的聊天机器人引擎 - Bot Engine.
 
 # 问题域
 ```
@@ -39,7 +39,7 @@ https://vimeo.com/43677920
 * 低成本的构建对话
 * 能区分不同类型的对话
 * 规范化输入
-* 高效率的规则引擎 
+* 高效率的规则引擎
 * 用户画像
 * 回复时，考虑对话的历史记录
 
@@ -270,6 +270,6 @@ natural language facilities for node.
 
 [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/) - a suite of core NLP tools
 
-[Natural Language Toolkit](http://www.nltk.org/) - NLTK is a leading platform for building Python programs to work with human language data. 
+[Natural Language Toolkit](http://www.nltk.org/) - NLTK is a leading platform for building Python programs to work with human language data.
 
 [How to Cook a Graph Database in a Night](http://nodejsconfit.levelgraph.io/#1) - A Knowledge Graphic tool based on LevelDB.

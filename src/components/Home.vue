@@ -2,9 +2,9 @@
   <div class="home">
     <div class="ui piled segments">
       <div class="ui clearing segment">
-        <h1 class="ui teal huge header">Chatbot Master</h1>
+        <h1 class="ui teal huge header">Chatopera Engineering</h1>
           <div class="ui grey small right floated header">
-            <a href="https://zh.wikipedia.org/wiki/%E8%8E%B1%E7%89%B9%E5%85%84%E5%BC%9F"> Noble is not born, but trained.</a>
+            <a href="https://zh.wikipedia.org/wiki/%E8%8E%B1%E7%89%B9%E5%85%84%E5%BC%9F"> Chatbot Service for Enterprise.</a>
           </div>
       </div>
       <div class="ui centered card">

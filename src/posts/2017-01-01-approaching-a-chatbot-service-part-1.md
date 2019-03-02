@@ -7,7 +7,7 @@ tags: [thoughts]
 disqus: true
 ---
 
->  声明：请尊重原创，转载注明来源网站[Chatbot Master](http://blog.chatbot.io)
+>  声明：请尊重原创，转载注明来源网站[Chatopera Engineering](http://eng.chatopera.com)
 
 <!-- 概述聊天机器人 -->
 目前机器学习，尤其是深度学习，已经成功的解决了图像识别的问题。从IMAGENET大赛的近几年成绩看，识别类问题准确度已经接近100%。
@@ -21,22 +21,22 @@ disqus: true
 <table style="width:100%">
   <tr>
     <th>服务</th>
-    <th>描述</th> 
+    <th>描述</th>
     <th>地址</th>
   </tr>
   <tr>
     <td>Botframework by Microsoft</td>
-    <td>提供会话管理，跨平台连接方案</td> 
+    <td>提供会话管理，跨平台连接方案</td>
     <td>https://dev.botframework.com/</td>
   </tr>
   <tr>
     <td>API.AI</td>
-    <td>会话训练，会话管理，语音识别，意图识别，一系列训练好的主题</td> 
+    <td>会话训练，会话管理，语音识别，意图识别，一系列训练好的主题</td>
     <td>https://api.ai/</td>
   </tr>
   <tr>
     <td>Telegram Bot Store</td>
-    <td>聊天机器人应用商店</td> 
+    <td>聊天机器人应用商店</td>
     <td>https://storebot.me/</td>
   </tr>
 </table>
@@ -136,15 +136,15 @@ Chatbot就要询问：
 # 挑战
 
 ## 关联上下文
-<!-- 
-But on the subject, I really like the idea of a hybrid retrieval/generative model. Using a LSTM to retrieve a thought vector and than generating the reply based on parameters <P, U, L>  Personality matrix, User Relationship with Bot and Lexicon. 
+<!--
+But on the subject, I really like the idea of a hybrid retrieval/generative model. Using a LSTM to retrieve a thought vector and than generating the reply based on parameters <P, U, L>  Personality matrix, User Relationship with Bot and Lexicon.
 -->
 
 关联上下文，就需要在设计机器人的时候，给它一个问题，获得一个回复。生成回复的时候，要考虑 P, U, L.
 
 * P - Personality matrix
 * U - User Relationship with Bot
-* L - Lexicon 
+* L - Lexicon
 
 这需要在训练LSTM Net的时候，要将更多信息注入，而且也更像是将基于检索的模型和基于生成的模式混合起来完成。
 

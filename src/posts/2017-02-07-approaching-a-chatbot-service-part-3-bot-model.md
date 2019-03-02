@@ -7,9 +7,9 @@ tags: [thoughts]
 disqus: true
 ---
 
->  声明：请尊重原创，转载注明来源网站[Chatbot Master](http://blog.chatbot.io)
+>  声明：请尊重原创，转载注明来源网站[Chatopera Engineering](http://eng.chatopera.com)
 
-距离[上一篇文章](http://blog.chatbot.io/development/2017/01/02/approaching-a-chatbot-service-part-2-bot-engine/)的发布也有一段时间了，这一个月左右的时间，一点也没有闲下来，直到春节终于有点时间总结一下。
+距离[上一篇文章](http://eng.chatopera.com/development/2017/01/02/approaching-a-chatbot-service-part-2-bot-engine/)的发布也有一段时间了，这一个月左右的时间，一点也没有闲下来，直到春节终于有点时间总结一下。
 
 在春晚开播的前五分钟，终于将项目重构了一下，而且以开源的形式回馈到社区。
 
@@ -110,7 +110,7 @@ if __name__ == "__main__":
 
 ==字典空间==的主要用途是对输入句子建立==有向无环图==，然后根据**算法**进行==切分==。算法的取舍主要是根据*模式* - 全切，精确还是搜索。
 
-2)对输入的语句分词，首先是建立一个有向无环图。 
+2)对输入的语句分词，首先是建立一个有向无环图。
 有向无环图, [Directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (音 /ˈdæɡ/)。
 
 ![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-12.23.34-PM.png)
@@ -148,7 +148,7 @@ jieba分词同时提供接口添加词汇。
 <i>【图 3-3】 word embedding, Ref. #7</i>
 </p>
 
-word embedding是文本的数值化表示方法。表示法包括one-hot，bag of words，N-gram，分布式表示，共现矩阵等。 
+word embedding是文本的数值化表示方法。表示法包括one-hot，bag of words，N-gram，分布式表示，共现矩阵等。
 
 ### Word2vec
 
@@ -189,7 +189,7 @@ word2vec -train "data/review.txt" \
 
 -threads 20 线程数
 
--binary 1 输出model保存成2进制 
+-binary 1 输出model保存成2进制
 
 -iter 15 迭代次数
 
@@ -264,7 +264,7 @@ DeepQA2使用[Cornell Movie Dialogs Corpus](www.cs.cornell.edu/~cristian/Cornell
 原始数据就是[movie\_lines.txt](https://github.com/Samurais/DeepQA2/blob/master/data/cornell/movie_lines.txt) 和[movie\_conversations.txt](https://github.com/Samurais/DeepQA2/blob/master/data/cornell/movie_conversations.txt)。这两个文件的组织形式参考[README.txt](https://github.com/Samurais/DeepQA2/tree/master/data/cornell)
 
 **deepqa2/dataset/preprocesser.py**是将这两个文件处理成数据字典的模块。
- 
+
 ![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-5.21.04-PM.png)
 
 *train_max_length_enco*就是*问题*的长度，*train_max_length_deco*就是*答案*的长度。在语料库中，大于该长度的部分会被截断。
@@ -332,7 +332,7 @@ Model的构建要考虑输入，状态，softmax，输出。
 
 ```
 cd DeepQA2/save/deeplearning.cobra.vulcan.20170127.175256/deepqa2/serve
-cp db.sample.sqlite3 db.sqlite3 
+cp db.sample.sqlite3 db.sqlite3
 python manage.py runserver 0.0.0.0:8000
 ```
 
@@ -370,7 +370,7 @@ response
 # 对模型的评价
 目前代码具有很高的维护性，这也是从DeepQA项目进行重构的原因，更清晰的数据预处理、训练和服务。有新的变更可以添加到*deepqa2/models*中，然后在*train.py*和*chatbotmanager.py*变更一下。
 
-# 有待改进的地方 
+# 有待改进的地方
 
 a. 新建models/rnn2.py, 使用dropout。目前DeepQA中已经使用了Drop.
 

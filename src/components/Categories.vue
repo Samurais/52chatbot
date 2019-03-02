@@ -1,12 +1,12 @@
 <template>
   <div class="categories">
     <template v-if="!$loadingRouteData">
-    <h1 class="ui teal huge header">Chatbot Master</h1>
-    <h2 class="ui grey small header">Noble is not born, but trained.</h2>
+    <h1 class="ui teal huge header">Chatopera Engineering</h1>
+    <h2 class="ui grey small header">Chatbot Service for Enterprise.</h2>
 
     <div class="ui labels">
-      <a class="ui label" 
-        v-for="(category, posts) of categories" 
+      <a class="ui label"
+        v-for="(category, posts) of categories"
         :class="{'teal': category == categorySelected}"
         @click="select(category)">{{ category }} <span class="detail">{{ posts.length }}</span></a>
     </div>
@@ -46,7 +46,7 @@
             {{ tag }}
           </a>
         </div>
-      </div> 
+      </div>
     </div>
     </template>
     <div v-if="$loadingRouteData" class="ui myloading segment">
