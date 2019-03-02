@@ -2,239 +2,239 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>http://blog.chatbot.io/thoughts/2016/07/31/creative-facebook/</loc>
+    <loc>http://eng.chatopera.com/thoughts/2016/07/31/creative-facebook/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2016/11/04/launch-linux-gpu-acc-machine-in-aws/</loc>
+    <loc>http://eng.chatopera.com/development/2016/11/04/launch-linux-gpu-acc-machine-in-aws/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2016/11/07/chatbot-based-on-ubuntu-dialogue-corpus/</loc>
+    <loc>http://eng.chatopera.com/research/2016/11/07/chatbot-based-on-ubuntu-dialogue-corpus/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2016/11/27/ci-xiang-liang-word-embeddings-yu-xiang-guan-ying-yong/</loc>
+    <loc>http://eng.chatopera.com/research/2016/11/27/ci-xiang-liang-word-embeddings-yu-xiang-guan-ying-yong/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2016/11/28/use-stanford-word-segmenter-to-process-chinese-data/</loc>
+    <loc>http://eng.chatopera.com/development/2016/11/28/use-stanford-word-segmenter-to-process-chinese-data/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2016/11/29/how-to-use-tensorboard/</loc>
+    <loc>http://eng.chatopera.com/development/2016/11/29/how-to-use-tensorboard/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2016/11/30/how-does-tf-app-run-work/</loc>
+    <loc>http://eng.chatopera.com/development/2016/11/30/how-does-tf-app-run-work/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2016/12/02/quickstart-tf-contrib-learn/</loc>
+    <loc>http://eng.chatopera.com/research/2016/12/02/quickstart-tf-contrib-learn/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/thoughts/2016/12/04/chatbot-trends/</loc>
+    <loc>http://eng.chatopera.com/thoughts/2016/12/04/chatbot-trends/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2016/12/07/distributed-tensorflow-example/</loc>
+    <loc>http://eng.chatopera.com/development/2016/12/07/distributed-tensorflow-example/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2016/12/12/items-and-model-understanding-in-tensorflow/</loc>
+    <loc>http://eng.chatopera.com/research/2016/12/12/items-and-model-understanding-in-tensorflow/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/thoughts/2016/12/17/chatbot-stops-here/</loc>
+    <loc>http://eng.chatopera.com/thoughts/2016/12/17/chatbot-stops-here/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2016/12/19/building-machine-learning-estimator-in-tensorflow/</loc>
+    <loc>http://eng.chatopera.com/research/2016/12/19/building-machine-learning-estimator-in-tensorflow/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2016/12/23/rnn-lstm-and-sequence2sequence/</loc>
+    <loc>http://eng.chatopera.com/research/2016/12/23/rnn-lstm-and-sequence2sequence/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2016/12/25/xian-xing-dai-shu-ji-chu/</loc>
+    <loc>http://eng.chatopera.com/research/2016/12/25/xian-xing-dai-shu-ji-chu/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/01/01/approaching-a-chatbot-service-part-1/</loc>
+    <loc>http://eng.chatopera.com/development/2017/01/01/approaching-a-chatbot-service-part-1/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/01/02/approaching-a-chatbot-service-part-2-bot-engine/</loc>
+    <loc>http://eng.chatopera.com/development/2017/01/02/approaching-a-chatbot-service-part-2-bot-engine/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/01/23/guo-nei-ke-yong-mian-fei-yu-liao-ku/</loc>
+    <loc>http://eng.chatopera.com/development/2017/01/23/guo-nei-ke-yong-mian-fei-yu-liao-ku/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/01/29/kedaxunfei-nodejs-sdk/</loc>
+    <loc>http://eng.chatopera.com/development/2017/01/29/kedaxunfei-nodejs-sdk/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/02/07/approaching-a-chatbot-service-part-3-bot-model/</loc>
+    <loc>http://eng.chatopera.com/development/2017/02/07/approaching-a-chatbot-service-part-3-bot-model/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/thoughts/2017/03/01/chatbot-age-is-coming/</loc>
+    <loc>http://eng.chatopera.com/thoughts/2017/03/01/chatbot-age-is-coming/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/03/02/1506.05869-A%20Neural%20Conversational%20Model/</loc>
+    <loc>http://eng.chatopera.com/research/2017/03/02/1506.05869-A%20Neural%20Conversational%20Model/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/03/03/1601.04589-Combining%20Markov%20Random%20Fields%20and%20Convolutional%20Neural%20Networks%20for%20Image%20Synthesis/</loc>
+    <loc>http://eng.chatopera.com/research/2017/03/03/1601.04589-Combining%20Markov%20Random%20Fields%20and%20Convolutional%20Neural%20Networks%20for%20Image%20Synthesis/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/03/03/1701.06547-Adversarial%20Learning%20for%20Neural%20Dialogue%20Generation/</loc>
+    <loc>http://eng.chatopera.com/research/2017/03/03/1701.06547-Adversarial%20Learning%20for%20Neural%20Dialogue%20Generation/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/thoughts/2017/03/16/dont-stop-by-criticize/</loc>
+    <loc>http://eng.chatopera.com/thoughts/2017/03/16/dont-stop-by-criticize/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/04/28/chinese-pos-tagging/</loc>
+    <loc>http://eng.chatopera.com/development/2017/04/28/chinese-pos-tagging/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/05/04/seq2seq-att-beam-search/</loc>
+    <loc>http://eng.chatopera.com/research/2017/05/04/seq2seq-att-beam-search/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/05/05/nlp-dict/</loc>
+    <loc>http://eng.chatopera.com/research/2017/05/05/nlp-dict/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/05/08/seq2seq-beam-Search/</loc>
+    <loc>http://eng.chatopera.com/research/2017/05/08/seq2seq-beam-Search/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/05/12/tts-service/</loc>
+    <loc>http://eng.chatopera.com/development/2017/05/12/tts-service/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/05/19/ss-wechaty/</loc>
+    <loc>http://eng.chatopera.com/development/2017/05/19/ss-wechaty/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/06/14/cosine-similarity/</loc>
+    <loc>http://eng.chatopera.com/development/2017/06/14/cosine-similarity/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/06/14/elasticsearch-query/</loc>
+    <loc>http://eng.chatopera.com/development/2017/06/14/elasticsearch-query/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/06/14/tf-idf/</loc>
+    <loc>http://eng.chatopera.com/development/2017/06/14/tf-idf/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/06/14/trietree/</loc>
+    <loc>http://eng.chatopera.com/development/2017/06/14/trietree/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/06/16/cpp-regex/</loc>
+    <loc>http://eng.chatopera.com/development/2017/06/16/cpp-regex/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/06/17/cpp-longest-common-string/</loc>
+    <loc>http://eng.chatopera.com/development/2017/06/17/cpp-longest-common-string/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/06/17/word2vec/</loc>
+    <loc>http://eng.chatopera.com/development/2017/06/17/word2vec/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/06/22/1705.10513-IRGAN:%20A%20Minimax%20Game%20for%20Unifying%20Generative%20and%20Discriminative%20Information%20Retrieve/</loc>
+    <loc>http://eng.chatopera.com/research/2017/06/22/1705.10513-IRGAN:%20A%20Minimax%20Game%20for%20Unifying%20Generative%20and%20Discriminative%20Information%20Retrieve/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/06/24/machine-learning-glossary/</loc>
+    <loc>http://eng.chatopera.com/research/2017/06/24/machine-learning-glossary/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/06/24/practical-naive-bayes-classifier/</loc>
+    <loc>http://eng.chatopera.com/research/2017/06/24/practical-naive-bayes-classifier/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/06/25/Deeplearning-for-natural-language-processing/</loc>
+    <loc>http://eng.chatopera.com/research/2017/06/25/Deeplearning-for-natural-language-processing/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/06/25/what-is-the-difference-between-slot-filling-in/</loc>
+    <loc>http://eng.chatopera.com/research/2017/06/25/what-is-the-difference-between-slot-filling-in/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/06/26/Markov-Chain/</loc>
+    <loc>http://eng.chatopera.com/research/2017/06/26/Markov-Chain/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/06/26/freebase-introduction/</loc>
+    <loc>http://eng.chatopera.com/research/2017/06/26/freebase-introduction/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/06/26/hmm-viterbi/</loc>
+    <loc>http://eng.chatopera.com/research/2017/06/26/hmm-viterbi/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/07/29/cosine-similarity-2/</loc>
+    <loc>http://eng.chatopera.com/development/2017/07/29/cosine-similarity-2/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/07/31/hadoop-get-started/</loc>
+    <loc>http://eng.chatopera.com/development/2017/07/31/hadoop-get-started/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/08/01/numpy-interfaces/</loc>
+    <loc>http://eng.chatopera.com/development/2017/08/01/numpy-interfaces/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/08/03/maximum-likelihood-estimation/</loc>
+    <loc>http://eng.chatopera.com/research/2017/08/03/maximum-likelihood-estimation/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2017/08/03/numpy-interfaces-2/</loc>
+    <loc>http://eng.chatopera.com/development/2017/08/03/numpy-interfaces-2/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/research/2017/08/09/insuranceqa-corpus-zh/</loc>
+    <loc>http://eng.chatopera.com/research/2017/08/09/insuranceqa-corpus-zh/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2018/02/20/synonyms-1/</loc>
+    <loc>http://eng.chatopera.com/development/2018/02/20/synonyms-1/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/thoughts/2018/02/23/chatbot-trends/</loc>
+    <loc>http://eng.chatopera.com/thoughts/2018/02/23/chatbot-trends/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2018/03/03/fitting-hyper-params/</loc>
+    <loc>http://eng.chatopera.com/development/2018/03/03/fitting-hyper-params/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2018/03/09/forward-arpaformat/</loc>
+    <loc>http://eng.chatopera.com/development/2018/03/09/forward-arpaformat/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2018/03/15/dependency-parser-CoNLL-format/</loc>
+    <loc>http://eng.chatopera.com/development/2018/03/15/dependency-parser-CoNLL-format/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2018/05/04/forward-arpaformat/</loc>
+    <loc>http://eng.chatopera.com/development/2018/05/04/forward-arpaformat/</loc>
   </url>
 
   <url>
-    <loc>http://blog.chatbot.io/development/2018/10/05/bot-emulator-get-started/</loc>
+    <loc>http://eng.chatopera.com/development/2018/10/05/bot-emulator-get-started/</loc>
   </url>
 
 </urlset>

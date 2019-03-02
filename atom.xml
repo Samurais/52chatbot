@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Chatbot Master</title>
-  <subtitle>Noble is not born, but trained.</subtitle>
+  <title>Chatopera Engineering</title>
+  <subtitle>企业聊天机器人</subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://blog.chatbot.io"/>
-  <updated>2019-03-02T04:51:02.195Z</updated>
-  <id>http://blog.chatbot.io</id>
+  <link href="http://eng.chatopera.com"/>
+  <updated>2019-03-02T04:59:04.701Z</updated>
+  <id>http://eng.chatopera.com</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
-  <generator uri="http://blog.chatbot.io">blog-next</generator>
+  <generator uri="http://eng.chatopera.com">blog-next</generator>
   
     <entry>
       <title>Bot Emulator快速开始</title>
-      <link href="http://blog.chatbot.io/development/2018/10/05/bot-emulator-get-started/"/>
-      <id>http://blog.chatbot.io/development/2018/10/05/bot-emulator-get-started/</id>
+      <link href="http://eng.chatopera.com/development/2018/10/05/bot-emulator-get-started/"/>
+      <id>http://eng.chatopera.com/development/2018/10/05/bot-emulator-get-started/</id>
       <published>2018-11-04T16:00:00.000Z</published>
       <updated>2018-11-04T16:00:00.000Z</updated>
       <summary type="html">
@@ -23,18 +23,18 @@
           微软Botframework中快速开发聊天机器人的桌面工具。
         
       </summary>
-      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      <category term="development" scheme="http://eng.chatopera.com/categories?category=development"/>
       
-        <category term="bot" scheme="http://blog.chatbot.io/tags?tag=bot"/>
+        <category term="bot" scheme="http://eng.chatopera.com/tags?tag=bot"/>
       
-        <category term="microsoft" scheme="http://blog.chatbot.io/tags?tag=microsoft"/>
+        <category term="microsoft" scheme="http://eng.chatopera.com/tags?tag=microsoft"/>
       
     </entry>
   
     <entry>
       <title>安装dynet</title>
-      <link href="http://blog.chatbot.io/development/2018/05/04/forward-arpaformat/"/>
-      <id>http://blog.chatbot.io/development/2018/05/04/forward-arpaformat/</id>
+      <link href="http://eng.chatopera.com/development/2018/05/04/forward-arpaformat/"/>
+      <id>http://eng.chatopera.com/development/2018/05/04/forward-arpaformat/</id>
       <published>2018-06-03T16:00:00.000Z</published>
       <updated>2018-06-03T16:00:00.000Z</updated>
       <summary type="html">
@@ -42,16 +42,16 @@
           在Mac OSX上安装dynet过程遇到的问题和解决办法
         
       </summary>
-      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      <category term="development" scheme="http://eng.chatopera.com/categories?category=development"/>
       
-        <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
+        <category term="nlp" scheme="http://eng.chatopera.com/tags?tag=nlp"/>
       
     </entry>
   
     <entry>
       <title>CoNLL Shared Task data format</title>
-      <link href="http://blog.chatbot.io/development/2018/03/15/dependency-parser-CoNLL-format/"/>
-      <id>http://blog.chatbot.io/development/2018/03/15/dependency-parser-CoNLL-format/</id>
+      <link href="http://eng.chatopera.com/development/2018/03/15/dependency-parser-CoNLL-format/"/>
+      <id>http://eng.chatopera.com/development/2018/03/15/dependency-parser-CoNLL-format/</id>
       <published>2018-04-14T16:00:00.000Z</published>
       <updated>2018-04-14T16:00:00.000Z</updated>
       <summary type="html">
@@ -59,16 +59,16 @@
           依存关系和词性标注器训练语料格式
         
       </summary>
-      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      <category term="development" scheme="http://eng.chatopera.com/categories?category=development"/>
       
-        <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
+        <category term="nlp" scheme="http://eng.chatopera.com/tags?tag=nlp"/>
       
     </entry>
   
     <entry>
       <title>N-Gram文件格式介绍 - ARPA</title>
-      <link href="http://blog.chatbot.io/development/2018/03/09/forward-arpaformat/"/>
-      <id>http://blog.chatbot.io/development/2018/03/09/forward-arpaformat/</id>
+      <link href="http://eng.chatopera.com/development/2018/03/09/forward-arpaformat/"/>
+      <id>http://eng.chatopera.com/development/2018/03/09/forward-arpaformat/</id>
       <published>2018-04-08T16:00:00.000Z</published>
       <updated>2018-04-08T16:00:00.000Z</updated>
       <summary type="html">
@@ -76,16 +76,16 @@
           ARPA Language models
         
       </summary>
-      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      <category term="development" scheme="http://eng.chatopera.com/categories?category=development"/>
       
-        <category term="nlp" scheme="http://blog.chatbot.io/tags?tag=nlp"/>
+        <category term="nlp" scheme="http://eng.chatopera.com/tags?tag=nlp"/>
       
     </entry>
   
     <entry>
       <title>深度学习：调节网络超参数</title>
-      <link href="http://blog.chatbot.io/development/2018/03/03/fitting-hyper-params/"/>
-      <id>http://blog.chatbot.io/development/2018/03/03/fitting-hyper-params/</id>
+      <link href="http://eng.chatopera.com/development/2018/03/03/fitting-hyper-params/"/>
+      <id>http://eng.chatopera.com/development/2018/03/03/fitting-hyper-params/</id>
       <published>2018-04-02T16:00:00.000Z</published>
       <updated>2018-04-02T16:00:00.000Z</updated>
       <summary type="html">
@@ -93,9 +93,9 @@
           在训练前，需要先规划超级参数，比如batch size, etc.
         
       </summary>
-      <category term="development" scheme="http://blog.chatbot.io/categories?category=development"/>
+      <category term="development" scheme="http://eng.chatopera.com/categories?category=development"/>
       
-        <category term="deeplearning" scheme="http://blog.chatbot.io/tags?tag=deeplearning"/>
+        <category term="deeplearning" scheme="http://eng.chatopera.com/tags?tag=deeplearning"/>
       
     </entry>
   
