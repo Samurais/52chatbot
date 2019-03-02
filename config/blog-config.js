@@ -1,7 +1,7 @@
 module.exports = {
   scheme: 'http',
-  host: 'blog.chatbot.io',
-  title: 'Chatbot Master',
-  subTitle: 'Noble is not born, but trained.',
+  host: 'eng.chatopera.com',
+  title: 'Chatopera Engineering',
+  subTitle: '企业聊天机器人',
   disqus: 'chatbot-master-core'
 }

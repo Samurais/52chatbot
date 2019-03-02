@@ -10,12 +10,12 @@
       <a class="item" v-link="{path: '/tags'}">Tags</a>
       <a class="item" v-link="{path: '/home'}">Intro</a>
       <a class="item" href="/atom.xml">RSS</a>
-      <a class="item" href="http://blog.chatbot.io/webcv/" target="_blank">About me</a>
+      <a class="item" href="https://www.chatopera.com/" target="_blank">About us</a>
     </div>
     <router-view></router-view>
     <div class="ui center aligned segment">
       <p>
-        Copyright＠2017 <a href="https://github.com/Samurais">Samurais.</a> All rights reversed.
+        Copyright＠2019 <a href="https://www.chatopera.com/">Chatopera Inc.</a> All rights reversed.
       </p>
       <p>Built with <a href="https://github.com/reverland/blog-next">blog-next</a>.</p>
     </div>
