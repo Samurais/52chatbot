@@ -4,13 +4,30 @@
   <subtitle>Chatbot Service for Enterprise.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://eng.chatopera.com"/>
-  <updated>2019-03-02T05:34:49.200Z</updated>
+  <updated>2019-05-07T08:46:01.704Z</updated>
   <id>http://eng.chatopera.com</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://eng.chatopera.com">blog-next</generator>
+  
+    <entry>
+      <title>CMake进阶教程（一）</title>
+      <link href="http://eng.chatopera.com/development/2019/05/07/cmake-common-1/"/>
+      <id>http://eng.chatopera.com/development/2019/05/07/cmake-common-1/</id>
+      <published>2019-06-06T16:00:00.000Z</published>
+      <updated>2019-06-06T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          快速开始使用CMake构建大规模项目
+        
+      </summary>
+      <category term="development" scheme="http://eng.chatopera.com/categories?category=development"/>
+      
+        <category term="cpp" scheme="http://eng.chatopera.com/tags?tag=cpp"/>
+      
+    </entry>
   
     <entry>
       <title>Bot Emulator快速开始</title>
@@ -79,23 +96,6 @@
       <category term="development" scheme="http://eng.chatopera.com/categories?category=development"/>
       
         <category term="nlp" scheme="http://eng.chatopera.com/tags?tag=nlp"/>
-      
-    </entry>
-  
-    <entry>
-      <title>深度学习：调节网络超参数</title>
-      <link href="http://eng.chatopera.com/development/2018/03/03/fitting-hyper-params/"/>
-      <id>http://eng.chatopera.com/development/2018/03/03/fitting-hyper-params/</id>
-      <published>2018-04-02T16:00:00.000Z</published>
-      <updated>2018-04-02T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          在训练前，需要先规划超级参数，比如batch size, etc.
-        
-      </summary>
-      <category term="development" scheme="http://eng.chatopera.com/categories?category=development"/>
-      
-        <category term="deeplearning" scheme="http://eng.chatopera.com/tags?tag=deeplearning"/>
       
     </entry>
   
