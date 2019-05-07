@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CMake进阶教程（一）"
-excerpt: "快速开始使用CMake构建大规模项目"
+excerpt: "最为常用的一些 CMake 命令和变量"
 category: development
 tags: [cpp]
 disqus: true
@@ -202,5 +202,7 @@ set(CMAKE_CXX_FLAGS_RELEASE "-O2 -DNDEBUG " ) # release 包优化
 - [CMake Documentation(V3.0 为例)](https://cmake.org/cmake/help/v3.0/)
 
 - [CMake 变量](https://cmake.org/cmake/help/v3.0/manual/cmake-commands.7.html)
+
+- [CMake 如何查找链接库](http://www.yeolar.com/note/2014/12/16/cmake-how-to-find-libraries/)
 
 - [CMake 快速开始](https://github.com/chatopera/cmake-get-started)
