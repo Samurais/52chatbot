@@ -4,13 +4,30 @@
   <subtitle>Deliver Chatbots for Enterprise.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://eng.chatopera.com"/>
-  <updated>2019-05-07T08:47:47.601Z</updated>
+  <updated>2019-05-07T08:54:32.103Z</updated>
   <id>http://eng.chatopera.com</id>
   <author>
     <name>hain</name>
     <email>hain_wang@foxmail.com</email>
   </author>
   <generator uri="http://eng.chatopera.com">blog-next</generator>
+  
+    <entry>
+      <title>CMake进阶教程（二）</title>
+      <link href="http://eng.chatopera.com/development/2019/05/07/cmake-common-2/"/>
+      <id>http://eng.chatopera.com/development/2019/05/07/cmake-common-2/</id>
+      <published>2019-06-06T16:00:00.000Z</published>
+      <updated>2019-06-06T16:00:00.000Z</updated>
+      <summary type="html">
+        
+          CMake 函数和宏
+        
+      </summary>
+      <category term="development" scheme="http://eng.chatopera.com/categories?category=development"/>
+      
+        <category term="cpp" scheme="http://eng.chatopera.com/tags?tag=cpp"/>
+      
+    </entry>
   
     <entry>
       <title>CMake进阶教程（一）</title>
@@ -20,7 +37,7 @@
       <updated>2019-06-06T16:00:00.000Z</updated>
       <summary type="html">
         
-          快速开始使用CMake构建大规模项目
+          最为常用的一些 CMake 命令和变量
         
       </summary>
       <category term="development" scheme="http://eng.chatopera.com/categories?category=development"/>
@@ -74,23 +91,6 @@
       <summary type="html">
         
           依存关系和词性标注器训练语料格式
-        
-      </summary>
-      <category term="development" scheme="http://eng.chatopera.com/categories?category=development"/>
-      
-        <category term="nlp" scheme="http://eng.chatopera.com/tags?tag=nlp"/>
-      
-    </entry>
-  
-    <entry>
-      <title>N-Gram文件格式介绍 - ARPA</title>
-      <link href="http://eng.chatopera.com/development/2018/03/09/forward-arpaformat/"/>
-      <id>http://eng.chatopera.com/development/2018/03/09/forward-arpaformat/</id>
-      <published>2018-04-08T16:00:00.000Z</published>
-      <updated>2018-04-08T16:00:00.000Z</updated>
-      <summary type="html">
-        
-          ARPA Language models
         
       </summary>
       <category term="development" scheme="http://eng.chatopera.com/categories?category=development"/>
