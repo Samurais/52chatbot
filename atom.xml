@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Chatopera Engineering</title>
-  <subtitle>Chatbot Service for Enterprise.</subtitle>
+  <subtitle>Deliver Chatbots for Enterprise.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://eng.chatopera.com"/>
-  <updated>2019-05-07T08:46:01.704Z</updated>
+  <updated>2019-05-07T08:47:47.601Z</updated>
   <id>http://eng.chatopera.com</id>
   <author>
     <name>hain</name>
