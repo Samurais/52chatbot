@@ -260,7 +260,7 @@ new superscript({ ...}, function(err, bot){
 
 很多人预计2017年，AI方向最可能取得成功的领域是聊天机器人。那么，在这种情况下，面向聊天机器人的架构设计，是一个热门问题。包括Google，Facebook都有可能发布类似于微软的Botframework平台。而Bot Engine, 一种处理对话的引擎，起着很关键的作用。在开源社区，还没有看到哪个呼声非常高的实现，SuperScript，至少在JavaScript社区，是一个不错的选择。
 
-在[下一篇文章](http://eng.arrking.com/approaching-a-chatbot-service-part-3-bot-model/)中，我将介绍使用深度学习技术，依靠聊天语料，训练**Bot Model**.
+在[下一篇文章](http://eng.chatopera.com/development/2017/02/07/approaching-a-chatbot-service-part-3-bot-model/)中，我将介绍使用深度学习技术，依靠聊天语料，训练**Bot Model**.
 
 # Reading List
 [NaturalNode](https://github.com/naturalnode) - General

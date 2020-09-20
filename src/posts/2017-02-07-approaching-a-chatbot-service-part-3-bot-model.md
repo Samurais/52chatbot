@@ -406,5 +406,5 @@ f. 目前没有一个方法进行*accuracy*测试，一个思路是在训练中�
 如果你觉得本文对你有帮助，请帮忙star。
 
 ```
-https://github.com/Samurais/DeepQA2
+https://github.com/chatopera/deep-qa
 ```

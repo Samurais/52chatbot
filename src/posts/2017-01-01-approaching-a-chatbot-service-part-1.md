@@ -181,6 +181,6 @@ Bot Model是通过深度神经网络训练而来，可以回答任何问题。
 
 作为这个系列文章的第一篇，主要是介绍聊天机器人目前发展的状况和分类，在后面几篇中，将对上图所设想的方案做更多描述。
 
-* [Approaching a Chatbot Service - Part 2: Bot Engine](http://blog.chatbot.io/development/2017/01/02/approaching-a-chatbot-service-part-2-bot-engine/)
+* [Approaching a Chatbot Service - Part 2: Bot Engine](http://eng.chatopera.com/development/2017/01/02/approaching-a-chatbot-service-part-2-bot-engine/)
 
-* [Approaching a Chatbot Service - Part 3: Bot Model](http://blog.chatbot.io/development/2017/02/07/approaching-a-chatbot-service-part-3-bot-model/)
+* [Approaching a Chatbot Service - Part 3: Bot Model](http://eng.chatopera.com/development/2017/02/07/approaching-a-chatbot-service-part-3-bot-model/)
