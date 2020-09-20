@@ -14,7 +14,7 @@ disqus: true
 
 numpy.random.randn(d0, d1, ..., dn) 这个函数的作用就是从[标准正态分布](https://baike.baidu.com/item/%E6%A0%87%E5%87%86%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83)中返回一个或多个样本值。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/08/numpy-randn.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/08/numpy-randn.png)
 
 如果想要从非标准正态分布中产生随机样本，咋办？比如下面这个正态分布：
 
@@ -30,8 +30,8 @@ random.uniform(a, b) 用于生成一个指定范围内的随机符点数，两�
 random.randint(a, b)，用于生成一个指定范围内的整数。其中参数a是下限，参数b是上限，生成的随机数n: a <= n <= b
 
 ```python
-print random.randint(12, 20)  #生成的随机数n: 12 <= n <= 20  
-print random.randint(20, 20)  #结果永远是20  
+print random.randint(12, 20)  #生成的随机数n: 12 <= n <= 20
+print random.randint(20, 20)  #结果永远是20
 ```
 
 random.randrange的函数原型为：random.randrange([start], stop[, step])，从指定范围内，按指定基数递增的集合中 获取一个随机数。如：
@@ -46,8 +46,8 @@ random.choice从序列中获取一个随机元素。其函数原型为：random.
 
 ```python
 print random.choice("学习Python")   # error
-print random.choice(["JGood", "is", "a", "handsome", "boy"])  
-print random.choice(("Tuple", "List", "Dict"))  
+print random.choice(["JGood", "is", "a", "handsome", "boy"])
+print random.choice(("Tuple", "List", "Dict"))
 ```
 
 随机字符：
@@ -62,7 +62,7 @@ print random.choice(("Tuple", "List", "Dict"))
 
 ```python
 >>> import random
->>> random.random() 
+>>> random.random()
 0.85415370477785668
 >>> random.uniform(1, 10)
 5.4221167969800881
@@ -72,7 +72,7 @@ print random.choice(("Tuple", "List", "Dict"))
 
 ```python
 >>> import random
-random.sample('abcdefghij',3) 
+random.sample('abcdefghij',3)
 ['a', 'd', 'b']
 ```
 
@@ -98,18 +98,18 @@ eplace(" ","")
 random.shuffle的函数原型为：random.shuffle(x[, random])，用于将一个列表中的元素打乱。如:
 
 ```python
-p = ["Python", "is", "powerful", "simple", "and so on..."]  
-random.shuffle(p)  
+p = ["Python", "is", "powerful", "simple", "and so on..."]
+random.shuffle(p)
 print p
 ```
 
 random.sample的函数原型为：random.sample(sequence, k)，从指定序列中随机获取指定长度的片断。sample函数不会修改原有序列。
 
 ```python
-list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]  
-slice = random.sample(list, 5)  #从list中随机获取5个元素，作为一个片断返回  
-print slice  
-print list #原有序列并没有改变。  
+list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+slice = random.sample(list, 5)  #从list中随机获取5个元素，作为一个片断返回
+print slice
+print list #原有序列并没有改变。
 ```
 
 ## 参考

@@ -12,7 +12,7 @@ disqus: true
 <!-- 概述聊天机器人 -->
 目前机器学习，尤其是深度学习，已经成功的解决了图像识别的问题。从IMAGENET大赛的近几年成绩看，识别类问题准确度已经接近100%。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/01/Screen-Shot-2017-01-01-at-20.44.22.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/01/Screen-Shot-2017-01-01-at-20.44.22.png)
 
 与此同时，机器学习在解决“语音到文字”(Speech to Text)以及“文字到语音” (Text to Speech)方面也有了飞跃。
 
@@ -46,13 +46,13 @@ disqus: true
 * Step 1 - 在Telegram上注册账号
 
 通过 BotFather创建Bot。
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/01/Screen-Shot-2017-01-01-at-21.12.20.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/01/Screen-Shot-2017-01-01-at-21.12.20.png)
 
 * Step 2 - 在Botframework上注册账号
 
 创建一个Bot, 同时下载Botframework提供的SDK／Sample( Node.js|C#)，连接到Telegram。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/01/Screen-Shot-2017-01-01-at-21.16.22.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/01/Screen-Shot-2017-01-01-at-21.16.22.png)
 
 基于Botframework的对话，要写很多代码实现，这样我们更需要一个连接到已经提供一些对话的服务上。
 
@@ -61,18 +61,18 @@ disqus: true
 
 API.AI可以提供标注对话，开放域对话和语音识别，意图识别等功能。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/01/Screen-Shot-2017-01-01-at-21.24.34.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/01/Screen-Shot-2017-01-01-at-21.24.34.png)
 
 * Step 4 - 服务发布
 
 Telegram是一个神奇的IM，它提供了[聊天机器人应用商店](https://storebot.me/)。使用Telegram IM的用户可以快速体验和使用这些Bot。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/01/Screen-Shot-2017-01-01-at-21.34.12.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/01/Screen-Shot-2017-01-01-at-21.34.12.png)
 
 
 一些Bot的体验真的很棒，尤其是使用了人工智能技术的Bot，以至于会出现下面的[评论](https://storebot.me/bot/andyrobot)。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/01/Screen-Shot-2017-01-01-at-21.35.47.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/01/Screen-Shot-2017-01-01-at-21.35.47.png)
 
 
 还有其他聊天机器人的玩家：*wit.ai*, *Chatfuel*, *Facebook Messager*, *Apple Siri*, *[腾讯机器人平台](http://bot.qq.com/)*, *Microsoft LUIS.AI*, etc.
@@ -89,7 +89,7 @@ Telegram是一个神奇的IM，它提供了[聊天机器人应用商店](https:/
 
 不依赖于提前定义的回答，但是在训练的过程中，需要大量的语料，语料包含了*context*和*response* 。当下流行使用**LSTM**和 **RNN**训练生成的模型，这种方法最早用来完成机器翻译的任务 - [Sequence to Sequence Learning with Neural Networks](http://git.oschina.net/ubiware/tech-books/raw/master/machine-learning-papers/1409.3215v3.pdf)。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/01/Screen-Shot-2017-01-01-at-21.59.14.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/01/Screen-Shot-2017-01-01-at-21.59.14.png)
 
 目前，在生产环境下，提供聊天服务的，一般都是基于检索的模型，而**Seq2Seq**的出现，有可能使基于生成的模型成为主流，因为**Seq2Seq**在长对话的情况下，依然可以表现的很好。
 
@@ -163,7 +163,7 @@ But on the subject, I really like the idea of a hybrid retrieval/generative mode
 
 在经过了很多调研和尝试后，一种比较Smart的机器人的实现方案可能是下面这个样子：
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/01/Screen-Shot-2017-01-01-at-23.13.23.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/01/Screen-Shot-2017-01-01-at-23.13.23.png)
 
 * 从社交网络上对接到服务需要走InboundMessage, 从OutboundMessage中异步获取回复。
 

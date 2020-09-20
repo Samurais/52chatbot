@@ -101,11 +101,11 @@ $HADOOP_HOME/sbin/mr-jobhistory-daemon.sh --config $HADOOP_CONF_DIR start histor
 
 ## Workflow
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/07/hadoop2.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/07/hadoop2.png)
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/07/hadoop3.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/07/hadoop3.png)
 
-## Streaming 
+## Streaming
 
 Hadoop Stream允许我们使用任何可执行的脚本处理按行组织的数据流，数据取自Unix的标准输入STDIN，并输出到标准输出到STDOUT。
 https://hadoop.apache.org/docs/r2.7.3/hadoop-streaming/HadoopStreaming.html

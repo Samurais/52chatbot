@@ -11,7 +11,7 @@ During generating a word2vec model with Chinese data, it is very important to se
 
 Fortunately, there are some awesome utilities which are introduced online.
 
- 
+
 # Java
 Built by Stanford NLP Software.
 
@@ -20,7 +20,7 @@ Built by Stanford NLP Software.
 http://nlp.stanford.edu/software/segmenter.shtml
 
 ```bash
-#! /bin/bash 
+#! /bin/bash
 ###########################################
 # Process segmenting using stanford-segmenter
 ###########################################
@@ -41,12 +41,12 @@ function process_file(){
 
 function loop_file(){
     cd $workDir
-    for x in `find . -name "*.tsv"`; do 
+    for x in `find . -name "*.tsv"`; do
         process_file $x
     done
 }
 
-# main 
+# main
 [ -z "${BASH_SOURCE[0]}" -o "${BASH_SOURCE[0]}" = "$0" ] || return
 
 if [ -f $SEGMENT_CMD ];
@@ -59,7 +59,7 @@ else
 fi
 ```
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2016/11/Screen-Shot-2016-11-28-at-19.58.54.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2016/11/Screen-Shot-2016-11-28-at-19.58.54.png)
 
 
 # Python
@@ -69,7 +69,7 @@ fi
 sudo pip install jieba
 ```
 
-![img](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2016/11/Screen-Shot-2016-11-28-at-22.36.35.png)
+![img](https://static-public.chatopera.com/backlog/chatbot/images/2016/11/Screen-Shot-2016-11-28-at-22.36.35.png)
 
 Also, with Python, [langid](https://github.com/saffsd/langid.py) can be used to check the language.
 
@@ -77,4 +77,4 @@ Also, with Python, [langid](https://github.com/saffsd/langid.py) can be used to 
 sudo pip install langid
 ```
 
-![img](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2016/11/Screen-Shot-2016-11-28-at-22.35.13.png)
+![img](https://static-public.chatopera.com/backlog/chatbot/images/2016/11/Screen-Shot-2016-11-28-at-22.35.13.png)

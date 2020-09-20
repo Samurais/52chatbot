@@ -9,17 +9,17 @@ disqus: true
 
 [余弦相似性](https://zh.wikipedia.org/wiki/%E4%BD%99%E5%BC%A6%E7%9B%B8%E4%BC%BC%E6%80%A7): 通过计算两个向量的夹角余弦值来评估他们的相似度。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/06/bg2013032002.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/06/bg2013032002.png)
 
 余弦值越接近1，就表明夹角越接近0度，也就是两个向量越相似。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/06/bg2013032007.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/06/bg2013032007.png)
 
 
 在[上一篇文章](http://samurais.github.io/development/2017/06/17/word2vec/)中，给出了使用gensim的方法，如果模型通过[word2vec](https://code.google.com/archive/p/word2vec)训练好了```bin```格式的文件。
 
 ```
-#! /bin/bash 
+#! /bin/bash
 
 # constants
 baseDir=$(cd `dirname "$0"`;pwd)
@@ -29,7 +29,7 @@ OUTPUT=w2v.bin
 
 # functions
 
-# main 
+# main
 [ -z "${BASH_SOURCE[0]}" -o "${BASH_SOURCE[0]}" = "$0" ] || return
 cd $baseDir
 $W2V_CMD -train $DATA \
@@ -107,7 +107,7 @@ def load_model(model_file = './w2v.bin', binary=True):
 
 # lambdas for cos similarity
 sim_molecule = lambda x: np.sum(x, axis=0) # 分子
-sim_denominator = lambda x: np.sqrt(np.sum(np.square(x)))  # 分母 
+sim_denominator = lambda x: np.sqrt(np.sum(np.square(x)))  # 分母
 
 def similarity_distance(sentence1, sentence2, V):
     '''

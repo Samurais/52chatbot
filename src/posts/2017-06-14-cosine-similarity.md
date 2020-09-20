@@ -9,11 +9,11 @@ disqus: true
 
 [余弦相似性](https://zh.wikipedia.org/wiki/%E4%BD%99%E5%BC%A6%E7%9B%B8%E4%BC%BC%E6%80%A7): 通过计算两个向量的夹角余弦值来评估他们的相似度。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/06/bg2013032002.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/06/bg2013032002.png)
 
 余弦值越接近1，就表明夹角越接近0度，也就是两个向量越相似。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/06/bg2013032007.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/06/bg2013032007.png)
 
 ## 给定两个句子
 A： 我喜欢足球，也喜欢篮球。

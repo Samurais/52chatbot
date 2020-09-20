@@ -7,7 +7,7 @@ tags: [thoughts]
 disqus: true
 ---
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/assets/images/2016/07-31/1.png)
+![](https://static-public.chatopera.com/backlog/assets/images/2016/07-31/1.png)
 
 ## 写在前面
 这是一本好书，作者牛逼的经历、总结在两百页文字中娓娓道来，让那些没有机会见证互联网传奇发生过程的人了解那些故事。读罢此书，难以释手，一定要花些时间总结总结，这既是对本书内容的提炼，也加上我个人的一些观点。这个读书报告分成三部分：
@@ -34,12 +34,12 @@ disqus: true
 
 这些总结带有我的局限性，大家不妨先看书，再看我的总结，交流学习！
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/assets/images/2016/07-31/1.png)
+![](https://static-public.chatopera.com/backlog/assets/images/2016/07-31/1.png)
 
 
 # 一个渴望改变世界的人
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/assets/images/2016/07-31/3.png)
+![](https://static-public.chatopera.com/backlog/assets/images/2016/07-31/3.png)
 
 创始人团队决定着创业公司的发展，从19岁开始，Mark就一直作为Facebook的CEO，从一个在大学和高中流行的社交网络走到世界上最大的社交网络，他有着最快的学习速度，领导者一个地球上最有智慧的一群人。Facebook并不是第一个做社交网络的，为什么它打败了其它对手？我觉得有下面重要的原因:
 
@@ -72,7 +72,7 @@ Facebook是一家科技驱动的公司，黑客文化是Facebook的核心理念�
 
 > The word “hacker” has an unfairly negative connotation from being portrayed in the media as people who break into computers. In reality, hacking just means building something quickly or testing the boundaries of what can be done. Like most things, it can be used for good or bad, but the vast majority of hackers I’ve met tend to be idealistic people who want to have a positive impact on the world.
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/assets/images/2016/07-31/4.png)
+![](https://static-public.chatopera.com/backlog/assets/images/2016/07-31/4.png)
 
 
 最后，这个是一个值得托付终生的组织，大量的员工赚了一辈子花不完的钱，还要委托给基金打理留给下一代。
@@ -103,7 +103,7 @@ if you never down the site, you are not a facebook engineer.
        以下是Facebook启动新产品／功能时的流程：
 
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/assets/images/2016/07-31/5.png)
+![](https://static-public.chatopera.com/backlog/assets/images/2016/07-31/5.png)
 
 ### 描绘愿景 设置目标
 
@@ -117,7 +117,7 @@ if you never down the site, you are not a facebook engineer.
 
 ### 搜集想法并排出优先次序
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/assets/images/2016/07-31/6.png)
+![](https://static-public.chatopera.com/backlog/assets/images/2016/07-31/6.png)
 
 
 根据每个想法对目标的影响和其所需的资源进行讨论，这些会议通常是技术经理或者产品经理来主导，但要求每个人积极的参与，发表意见。关于时间的分配，还有一个"6-2-2"原则：60%的时间放到那些能够预期的工作上，20%的时间花在后台架构和产品质量上，20%的时间花在比较有风险、有争议、可能会带来颠覆性后果的那些想法上。
@@ -190,7 +190,7 @@ Hackathon的宗旨，是为了保持员工的创造力，确保他们不会感�
        创新需要对未经证明和未经整合的技术很敏感，并最终把它们变成一个能够产生价值的商业模式。创新是自上而下进行推进的，这需要领导对产品有着执着的追求，在乔布斯做麦金塔电脑的时候，苹果公司几乎都要破产了，麦金塔电脑为了获得1.65％的市场份额没有任何意义，但是他却要坚持这个主意。
 
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/assets/images/2016/07-31/7.png)
+![](https://static-public.chatopera.com/backlog/assets/images/2016/07-31/7.png)
 
 *1866年, Pierre Lallement发明了自行车*
 

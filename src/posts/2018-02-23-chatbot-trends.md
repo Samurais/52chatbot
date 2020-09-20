@@ -7,7 +7,7 @@ tags: [thoughts]
 disqus: true
 ---
 
-<img src="http://7xkeqi.com1.z0.glb.clouddn.com/assets/images/2018/02/1.png" width="800">
+<img src="https://static-public.chatopera.com/backlog/assets/images/2018/02/1.png" width="800">
 
 这几年，因为从事业务流程引擎和聊天机器人的开发工作，让我对二者的融合将对服务有着怎么样的影响有了一些想法。
 

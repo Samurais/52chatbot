@@ -22,7 +22,7 @@ disqus: true
 模型能聊的内容也取决于选取的语料。如果已经具备了原始聊天数据，可以用SQL通过关键字查询一些对话，也就是从大库里选取出一个小库来训练。从一些论文上，很多算法都是在数据预处理层面的，比如[Mechanism-Aware Neural Machine
 for Dialogue Response Generation](http://git.oschina.net/ubiware/tech-books/blob/master/machine-learning-papers/aware_neural_machine_wechat_lin_fen.pdf?dir=0&filepath=machine-learning-papers%2Faware_neural_machine_wechat_lin_fen.pdf&oid=6cfcc46afb3e31e12f173d6f0a807dafa6ef8a54&sha=0c80890d5897933346fbce09452011a2a052f0c5)就介绍了，从大库中抽取小库，然后再进行融合，训练出有特色的对话来。
 
-![参考文献 7](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-12.37.01-PM.png "Ref 7")
+![参考文献 7](https://static-public.chatopera.com/backlog/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-12.37.01-PM.png "Ref 7")
 
 
 <p align="center">
@@ -113,7 +113,7 @@ if __name__ == "__main__":
 2)对输入的语句分词，首先是建立一个有向无环图。
 有向无环图, [Directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (音 /ˈdæɡ/)。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-12.23.34-PM.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-12.23.34-PM.png)
 
 
 <p align="center">
@@ -142,7 +142,7 @@ jieba分词同时提供接口添加词汇。
 
 使用机器学习训练的语言模型，网络算法是使用数字进行计算，在输入进行编码，在输出进行解码。word embedding就是编解码的手段。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-12.37.06-PM.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-12.37.06-PM.png)
 
 <p align="center">
 <i>【图 3-3】 word embedding, Ref. #7</i>
@@ -152,7 +152,7 @@ word embedding是文本的数值化表示方法。表示法包括one-hot，bag o
 
 ### Word2vec
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-1.41.09-PM.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-1.41.09-PM.png)
 
 近年来，[word2vec](https://code.google.com/archive/p/word2vec/%20%20)被广泛采用。Word2vec输入文章或者其他语料，输出语料中词汇建设的词向量空间。详细可参考[word2vec数学原理解析](http://www.open-open.com/lib/view/open1420687569468.html)。
 
@@ -206,7 +206,7 @@ vector("法国") - vector("巴黎) + vector("英国") = vector("伦敦")"
 # Seq2Seq
 2014年，[Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)提出了使用深度学习技术，基于RNN和LSTM网络训练翻译系统，取得了突破，这一方法便应用在更广泛的领域，比如问答系统，图像字幕，语音识别，撰写诗词等。Seq2Seq完成了【encoder + decoder -> target】的映射，在上面的论文中，清晰的介绍了实现方式。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-5.22.46-PM.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-5.22.46-PM.png)
 
 <p align="center">
 <i>【图 3-4】 Seq2Seq, Ref. #1</i>
@@ -216,7 +216,7 @@ vector("法国") - vector("巴黎) + vector("英国") = vector("伦敦")"
 
 *a*. RNN保存了语言顺序的特点，这和CNN在处理带有形状的模型时如出一辙，就是数学模型的设计符合物理模型。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-4.52.06-PM.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-4.52.06-PM.png)
 
 
 <p align="center">
@@ -225,14 +225,14 @@ vector("法国") - vector("巴黎) + vector("英国") = vector("伦敦")"
 
 *b*. LSTM Cell的复杂度对应了自然语言处理的复杂度。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-4.52.25-PM.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-4.52.25-PM.png)
 <p align="center">
 <i>【图 3-6】 LSTM, Ref. #6</i>
 </p>
 
 理由是，有人将LSTM Cell尝试了多种其它方案传递状态，结果也很好。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-4.56.51-PM.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-4.56.51-PM.png)
 
 <p align="center">
 <i>【图 3-7】 GRU, Ref. #6</i>
@@ -265,13 +265,13 @@ DeepQA2使用[Cornell Movie Dialogs Corpus](www.cs.cornell.edu/~cristian/Cornell
 
 **deepqa2/dataset/preprocesser.py**是将这两个文件处理成数据字典的模块。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-5.21.04-PM.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-5.21.04-PM.png)
 
 *train_max_length_enco*就是*问题*的长度，*train_max_length_deco*就是*答案*的长度。在语料库中，大于该长度的部分会被截断。
 
 程序运行后，会生成*dataset-cornell-20.pkl*文件，它加载到python中是一个字典：
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-5.27.24-PM.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-5.27.24-PM.png)
 
 *word2id*存储了{word: id}，其中word是一个单词，id是int数字，代表这个单词的id。
 
@@ -313,19 +313,19 @@ deepqa2/train.py大约100行，完成数据字典加载、初始化tensorflow的
 ### Model
 Model的构建要考虑输入，状态，softmax，输出。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-5.51.32-PM.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-5.51.32-PM.png)
 
 定义损耗函数，使用*AdamOptimizer*进行迭代。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-6.28.37-PM.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-6.28.37-PM.png)
 
 最后，参考一下训练的loop部分。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-6.33.40-PM.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-6.33.40-PM.png)
 
 每次训练，model会被存储在 *save*路径下，文件夹的命名根据机器的hostname，时间戳生成。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-6.35.57-PM.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/02/Screen-Shot-2017-02-07-at-6.35.57-PM.png)
 
 ## 提供服务
 在TensorFlow中，提供了标准的serving模块 - tensorflow serving。但研究了很久，还专门看了一遍 《C++ Essentials》，还没有将它搞定，社区也普遍抱怨tensorflow serving不好学，不好用。训练结束后，使用下面的脚本启动服务，DeepQA2的serve部分还是调用TensorFlow的python api。

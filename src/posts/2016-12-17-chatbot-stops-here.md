@@ -7,7 +7,7 @@ tags: [Activity]
 disqus: true
 ---
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/assets/images/2016/12-17/Screen%20Shot%202018-02-19%20at%2010.40.15%20PM.png)
+![](https://static-public.chatopera.com/backlog/assets/images/2016/12-17/Screen%20Shot%202018-02-19%20at%2010.40.15%20PM.png)
 
 [聊天机器人活动](https://github.com/rockq-org/node-party/tree/master/archieves/18th)的精彩视频来了!
 
@@ -30,7 +30,7 @@ disqus: true
 
 > AI is here to stay.
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/assets/images/2016/12-17/Screen%20Shot%202018-02-19%20at%2010.40.36%20PM.png)
+![](https://static-public.chatopera.com/backlog/assets/images/2016/12-17/Screen%20Shot%202018-02-19%20at%2010.40.36%20PM.png)
 
 最近关于NLP/深度学习的活动很多，很多大公司也开始大力招这方面的人才:
 http://nlpjob.com/
@@ -50,8 +50,8 @@ https://github.com/rockq-org/node-party/tree/master/archieves/18th
 [url2]: https://v.qq.com/x/page/c03564kh7y6.html
 [url3]: http://v.qq.com/x/page/g03567hcabo.html
 [url4]: https://v.qq.com/x/page/j0355ucprmu.html
-[image2]: http://7xkeqi.com1.z0.glb.clouddn.com/assets/images/2016/12-17/Screen%20Shot%202018-02-19%20at%2010.40.08%20PM.png
-[image3]: http://7xkeqi.com1.z0.glb.clouddn.com/assets/images/2016/12-17/Screen%20Shot%202018-02-19%20at%2010.40.22%20PM.png
-[image4]: http://7xkeqi.com1.z0.glb.clouddn.com/assets/images/2016/12-17/Screen%20Shot%202018-02-19%20at%2010.40.29%20PM.png
+[image2]: https://static-public.chatopera.com/backlog/assets/images/2016/12-17/Screen%20Shot%202018-02-19%20at%2010.40.08%20PM.png
+[image3]: https://static-public.chatopera.com/backlog/assets/images/2016/12-17/Screen%20Shot%202018-02-19%20at%2010.40.22%20PM.png
+[image4]: https://static-public.chatopera.com/backlog/assets/images/2016/12-17/Screen%20Shot%202018-02-19%20at%2010.40.29%20PM.png
 
 

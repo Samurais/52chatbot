@@ -31,7 +31,7 @@ IBM Watson API [Docs](https://www.ibm.com/smarterplanet/us/en/ibmwatson/develope
 # Conversation Model
 在两个人之间的对话，可以用下面这个模型表示，双方头脑中所要向对方表达的**目标**，需要通过**语言**来交换意见，为了达成共识，二者需要在一个**语境**下。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/01/Screen-Shot-2017-01-02-at-12.53.08.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/01/Screen-Shot-2017-01-02-at-12.53.08.png)
 https://vimeo.com/43677920
 
 为了支撑这个模型，在设计Bot Engine过程中，要考虑如下的要点：
@@ -155,7 +155,7 @@ what be the colour of the calender
 这里需要结合很多工具库来实现：NLTK, Stanford CoreNLP, Jieba分词，Wordnet, ConceptNet.
 
 比如，借助Stanford CoreNLP，可以有下面的标注：
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/01/Xi-Jinping.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/01/Xi-Jinping.png)
 
 经过规范化输入，在规则引擎中，可以依赖词性和函数实现更智能的回答。
 
@@ -166,7 +166,7 @@ what be the colour of the calender
 
 通过聊天的记录和关键字，先给对话栈排序。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/01/Screen-Shot-2017-01-02-at-15.10.34.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/01/Screen-Shot-2017-01-02-at-15.10.34.png)
 
 排序的思路大概是这样：
 
@@ -193,7 +193,7 @@ what be the colour of the calender
 
 在和用户聊天的过程中，获取到的用户相关的信息，有必要记录在数据库中，这其实是构建[知识图谱](http://baike.baidu.com/link?url=ASlZAbNwelZm8sz1AFhSU9W9irn1PK98QGewGnk0mMM-NYLPSNNTuSysDxwqTznVFBAl97kI_49tuODWZBcHrEsac6MbIh0o1m0hdxY1qnQvsSUGElGClhmlttSvqsly)的过程。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/01/Screen-Shot-2017-01-02-at-3.27.28-PM.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/01/Screen-Shot-2017-01-02-at-3.27.28-PM.png)
 
 知识图谱所用的数据库是存在三个字段的结构化数据:
 
@@ -206,7 +206,7 @@ what be the colour of the calender
 ```
 
 由此构建了一个关系：
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/01/Screen-Shot-2017-01-02-at-3.36.47-PM.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/01/Screen-Shot-2017-01-02-at-3.36.47-PM.png)
 
 而**B**又可以跳转到**D**。
 
@@ -223,7 +223,7 @@ this.user.memory.get( ...)
 this.bot.createUserFact( ...)
 ```
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/01/Screen-Shot-2017-01-02-at-3.46.18-PM.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/01/Screen-Shot-2017-01-02-at-3.46.18-PM.png)
 
 使用知识图谱，除了对实体之间完成关系构建外，还有一个原因是，搜索速度非常快，搜索功能强大。
 

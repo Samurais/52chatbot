@@ -39,7 +39,7 @@ You will notice that tensorboard is not able to find scalar values as we have no
 ```python
 with tf.name_scope('input'):
     # None -> batch size can be any size, 784 -> flattened mnist image
-    x = tf.placeholder(tf.float32, shape=[None, 784], name="x-input") 
+    x = tf.placeholder(tf.float32, shape=[None, 784], name="x-input")
     # target 10 output classes
     y_ = tf.placeholder(tf.float32, shape=[None, 10], name="y-input")
 ```
@@ -70,7 +70,7 @@ We can then execute this operation together with our train operation inside our 
 
 ### perform the operations we defined earlier on batch
 _, summary = sess.run([train_op, summary_op], feed_dict={x: batch_x, y_: batch_y})
-            
+
 ### write log
 ```python
 writer.add_summary(summary, epoch * batch_count + i)
@@ -89,6 +89,6 @@ A graph showing the cost progres for two different runs.
 
 # More credits
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2016/11/Screen-Shot-2016-11-30-at-09.54.10.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2016/11/Screen-Shot-2016-11-30-at-09.54.10.png)
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2016/11/Screen-Shot-2016-11-30-at-09.54.19.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2016/11/Screen-Shot-2016-11-30-at-09.54.19.png)

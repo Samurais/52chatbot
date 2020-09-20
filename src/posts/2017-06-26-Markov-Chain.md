@@ -12,11 +12,11 @@ disqus: true
 
 # 举例
 假设一个集合具有状态S[1-6], 每个状态的表示：
-**S1 = {AA, AA}**, 
+**S1 = {AA, AA}**,
 **S2 = {AA, Aa}**
-**S3 = {AA, aa}** 
-**S4 = {Aa, Aa}** 
-**S5 = {Aa, aa}** 
+**S3 = {AA, aa}**
+**S4 = {Aa, Aa}**
+**S5 = {Aa, aa}**
 **S6 = {aa, aa}**.
 
 每个状态是包含两个元素的集合，通过集合内的元素，可以其他状态，比如*S2*可以重组为**{AA, Aa}**, **{AA, AA}**, **{Aa, Aa}**。
@@ -24,13 +24,13 @@ disqus: true
 规定状态转移矩阵为：
 
 | State | Next(**S1**) | Next(**S2**) | Next(**S3**) | Next(**S4**) | Next(**S5**) | Next(**S6**) |
-| --- | --- | --- | --- | --- | --- | --- | 
-| **Current(S1)**&nbsp; | 1 | 0 | 0 | 0 | 0 | 0 | 
+| --- | --- | --- | --- | --- | --- | --- |
+| **Current(S1)**&nbsp; | 1 | 0 | 0 | 0 | 0 | 0 |
 | **Current(S2)**&nbsp; | 1/4 | 1/2 | 0 | 1/4 | 0 | 0 |
-| **Current(S3)**&nbsp; | 0 | 0 | 0 | 1 | 0 | 0 | 
-| **Current(S4)**&nbsp; | 1/16 | 1/4 | 1/8 | 1/4 | 1/4 | 1/16 | 
-| **Current(S5)**&nbsp; | 0 | 0 | 0 | 1/4 | 1/2 | 1/4 | 
-| **Current(S6)**&nbsp; | 0 | 0 | 0 | 0 | 0 | 1 | 
+| **Current(S3)**&nbsp; | 0 | 0 | 0 | 1 | 0 | 0 |
+| **Current(S4)**&nbsp; | 1/16 | 1/4 | 1/8 | 1/4 | 1/4 | 1/16 |
+| **Current(S5)**&nbsp; | 0 | 0 | 0 | 1/4 | 1/2 | 1/4 |
+| **Current(S6)**&nbsp; | 0 | 0 | 0 | 0 | 0 | 1 |
 
 上图中，每一行代表的是当前状态的一下一步转移到不同状态的概率。注意一个含有M个状态的一阶过程有M的平方个状态转移。
 
@@ -56,7 +56,7 @@ P = np.matrix([[1., 0., 0., 0., 0., 0.],
                [0., 0., 0., 0., 0., 1.]])
 
 # Init state
-v = np.matrix([[0, 0, 1, 0, 0, 0]]) 
+v = np.matrix([[0, 0, 1, 0, 0, 0]])
 
 # Get the data
 plot_data = []
@@ -88,7 +88,7 @@ python markov_chain_example.py
 
 * 结果：
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/06/markov_chain_example_5_steps.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/06/markov_chain_example_5_steps.png)
 
 从上图可以注意到：
 第0步**S3**为1， 其他状态为0。

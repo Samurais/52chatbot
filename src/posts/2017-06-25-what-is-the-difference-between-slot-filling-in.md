@@ -11,8 +11,8 @@ sequence-tagging可以帮助解决：实体命名和槽位取值问题。
 
 | Task | Dataset | Example |
 | --- | --- | --- |
-| NER | [CoNLL 2003](http://www.cnts.ua.ac.be/conll2003/ner/) | [link](https://people.cs.umass.edu/~mccallum/papers/mccallum-conll2003.pdf) | 
-| Slot filling | [ATIS](https://catalog.ldc.upenn.edu/LDC94S19) | [link](http://www.iro.umontreal.ca/~lisa/pointeurs/RNNSpokenLanguage2013.pdf) | 
+| NER | [CoNLL 2003](http://www.cnts.ua.ac.be/conll2003/ner/) | [link](https://people.cs.umass.edu/~mccallum/papers/mccallum-conll2003.pdf) |
+| Slot filling | [ATIS](https://catalog.ldc.upenn.edu/LDC94S19) | [link](http://www.iro.umontreal.ca/~lisa/pointeurs/RNNSpokenLanguage2013.pdf) |
 
 sequence-tagging 是带有目的性的从一段文字中寻找信息。
 
@@ -29,4 +29,4 @@ sequence-tagging 是带有目的性的从一段文字中寻找信息。
 
 [Knowledge Base Population](https://nlp.stanford.edu/projects/kbp/)
 
-[Sequence Labeling](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/pdfs/lect15-memm-crf.ppt)
+[Sequence Labeling](https://static-public.chatopera.com/backlog/chatbot/pdfs/lect15-memm-crf.ppt)

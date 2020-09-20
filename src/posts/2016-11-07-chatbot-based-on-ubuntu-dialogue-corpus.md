@@ -15,13 +15,13 @@ disqus: true
 
 此ubuntu数据量大，大约有一百万个对话。这对利用神经网络来建chatbot模型很有优势，能够充分发挥神经网络非线性学习能力。另外，语料中对次序对答的特点，可以不用人工标注标签来训练神经网络模型。
 # 语料介绍
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2016/11/Screenshot-from-2016-11-11-14-19-14.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2016/11/Screenshot-from-2016-11-11-14-19-14.png)
 图中上面的表个是ubuntu channel中的对话语料，下表是经过dialogue extraction algorithm处理后得到的语料格式。
 
 上下文（context）指的是从对话开始，截止到当前的内容，回答指的是对这段内容的回应。换而言之，上下文可以是若干句对话，而回答则是对这若干句对话的回应。正样本指的是该样本的上下文和回答是匹配的，对应地，负样本指的是二者是不匹配的——回答是从语料库的某个地方随机抽取的。下图是训练数据集的部分展示：
 ![](http://d3kbpzbmcynnmx.cloudfront.net/wp-content/uploads/2016/04/Screen-Shot-2016-04-20-at-12.29.42-PM.png)
 产生数据集的脚本使用NLTK为我们做了一系列的数据预处理工作——分词（tokenized）、英文单词取词根（stemmed）、英文单词变形的归类（lemmatized）（例如单复数归类）等。此外，例如人名、地名、组织名、URL链接、系统路径等专有名词，NLTK也做了替代。这些预处理工作也不是非做不可，不过它们似乎让结果精度他)
-### 语料处理 
+### 语料处理
 1. 去除语料中没有任何回答的问题;
 2. 去除一个用户超过大于5个utterance的部分，因为这种情况不能代表  真正的聊天情况;
 3. 只保留大于三个问答(对答)次序的对话，以建立长次序依赖的模型;

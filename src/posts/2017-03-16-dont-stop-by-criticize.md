@@ -7,7 +7,7 @@ tags: [thoughts]
 disqus: true
 ---
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/assets/images/2017/03/01/1.png)
+![](https://static-public.chatopera.com/backlog/assets/images/2017/03/01/1.png)
 
 1903年12月17日，莱特兄弟完成了动力驱动下飞行的完整过程。从此人类插上了翅膀。在莱特兄弟的团队里，没有博士、硕士，也没有充裕的资金去招聘最好的人，做最好的广告，购买最好的设备。
 

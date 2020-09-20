@@ -11,7 +11,7 @@ The HMM is a generative probabilistic model, in which a sequence of observable *
 
 > From http://hmmlearn.readthedocs.io/en/latest/tutorial.html
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/06/hmm-hidden-weather-example.gif)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/06/hmm-hidden-weather-example.gif)
 
 举例来说，假设对于隐居室内的人，天气是隐含状态，海藻是可观察状态，海藻的状态和天气之间存在联系，通过观察海藻的状态来预测天气的状态。
 
@@ -47,13 +47,13 @@ The first and the second problem can be solved by the dynamic programming algori
 这三个假设并不现实。
 
 假设1：马尔可夫假设（状态构成一阶马尔可夫链）
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/06/hmm-hidden-1.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/06/hmm-hidden-1.png)
 
 假设2：不动性假设（状态与具体时间无关）
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/06/hmm-hidden-2.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/06/hmm-hidden-2.png)
 
 假设3：输出独立性假设（输出仅与当前状态有关）
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/06/hmm-hidden-3.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/06/hmm-hidden-3.png)
 
 
 ## 举例说明
@@ -70,7 +70,7 @@ The first and the second problem can be solved by the dynamic programming algori
 
 假设时间序列为t0, t1, t2. 那么有病和没病可以获得的可观察状态为:
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/06/hmm-viterbi-2.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/06/hmm-viterbi-2.png)
 
 每天可计算出六个概率，由"有病"导致的"正常"或者"无病"导致的"正常"会有两个概率，这时我们选择概率较大的作为第一天的状态。然后，计算t1。
 
@@ -81,7 +81,7 @@ p = 前一时刻某一状态的概率 X 状态转移矩阵中前一时刻某一�
 
 max(p) = 对前一时刻各种状态按上公式求概率，然后使用最大值。在求最大值的同时也就确定了路径。
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/06/hmm-viterbi-3.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/06/hmm-viterbi-3.png)
 
 Codes: [Github](https://gist.github.com/Samurais/45feddc96d6b49f8315ed8771a14fa85)
 
@@ -91,12 +91,12 @@ Codes: [Github](https://gist.github.com/Samurais/45feddc96d6b49f8315ed8771a14fa8
 states = ('Healthy', 'Fever')
 observations = ('normal', 'cold', 'dizzy')
 start_probability = {'Healthy': 0.6, 'Fever': 0.4}
- 
+
 transition_probability = {
    'Healthy' : {'Healthy': 0.7, 'Fever': 0.3},
    'Fever' : {'Healthy': 0.4, 'Fever': 0.6},
    }
- 
+
 emission_probability = {
    'Healthy' : {'normal': 0.5, 'cold': 0.4, 'dizzy': 0.1},
    'Fever' : {'normal': 0.1, 'cold': 0.3, 'dizzy': 0.6},
@@ -151,7 +151,7 @@ print(example())
 
 运行结果:
 
-![](http://7xkeqi.com1.z0.glb.clouddn.com/chatbot/images/2017/06/hmm-viterbi-1.png)
+![](https://static-public.chatopera.com/backlog/chatbot/images/2017/06/hmm-viterbi-1.png)
 
 ## 通俗理解
 A序列是已知的，状态有限，比如：a1, a2, a1, a3。B序列也是状态有限，但是不知道B序列的排列。A序列及B序列内在有联系，得知在B序列状态转移会对应A序列状态转移的一个概率矩阵。维特比就是计算在这种情况下，B序列的最大可能序列。
